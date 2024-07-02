@@ -1,4 +1,4 @@
-### *Virtual Environment Studio Documentation*
+# *Virtual Environment Studio Documentation*
 
 
 ## *Volumetric Capture 4020 Documentation*
