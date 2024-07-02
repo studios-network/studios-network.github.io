@@ -1,9 +1,5 @@
 ## *Volumetric Capture 4020 Documentation*
 
-### *Introduction*
-
-Volumetric capture records 3D spaces and objects, creating immersive, interactive experiences. This technology captures depth, texture, and movement, providing realistic 3D representations for VR, AR, film, and gaming.
-
 ### *Technologies We Use*
 
 - *Femto Bolt Cameras*: Capture high-resolution 3D depth data.
