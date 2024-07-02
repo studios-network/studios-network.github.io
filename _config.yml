@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: VolCap 4020 Documentation
+description: Sequential Workflow Guide for Volumetric Capture Tools
+baseurl: "/Doc-Summer-2024" # the subpath of your site, e.g. /blog
+url: "https://ayda-hdp.github.io"
