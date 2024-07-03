@@ -64,6 +64,7 @@
 <p align="center">
      <img src="../images/unity/effect.png" width="900" height="700" alt="Open Device">
 </p>
+
 2. *Edit in VFX Graph*:
    - Double-click the newly created VFX Look file to open the VFX Graph workspace.
    - Use the node graph to design your custom visual effect for the Depth Kit clip.
