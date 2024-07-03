@@ -23,13 +23,13 @@ This guide will help you set up and record high-quality video using DepthKit.
    - You have the option to name your take under Recording Prefix.
    - Remember to use a visual and audible cue at the beginning of each take, such as clapping your hands, to help with the syncing process.
    <p align="center">
-     <img src="images/DK/cue.PNG" width="600" height="600" alt="Open Device">
+     <img src="../images/DK/cue.PNG" width="600" height="600" alt="Open Device">
    </p>
 
 2. Begin Recording:
    - In DepthKit, hit the Record button; a Diagnostics panel will be displayed.
    <p align="center">
-     <img src="images/DK/main.PNG" width="1000" height="600" alt="Open Device"></p>
+     <img src="../images/DK/main.PNG" width="1000" height="600" alt="Open Device"></p>
 
 3. End Recording:
    - After finishing your recording session, click on the "End Recording" button.
@@ -42,12 +42,12 @@ This guide will help you set up and record high-quality video using DepthKit.
 1. Access the Editor Tab:
    - Head to the "Editor" tab.
    <p align="center">
-     <img src="images/DK/library.PNG" width="450" height="200" alt="Open Device"></p>
+     <img src="../images/DK/library.PNG" width="450" height="200" alt="Open Device"></p>
 
 2. Drill into Sensors:
    - You can drill into each sensor by clicking the arrow next to the clip's name in the Library.
    <p align="center">
-     <img src="images/DK/sensor.png" width="450" height="200" alt="Open Device"></p>
+     <img src="../images/DK/sensor.png" width="450" height="200" alt="Open Device"></p>
 
 3. Export Multiperspective CPP Video:
    - To create an asset that can be quickly placed into the Unity project, you can export a Multiperspective CPP Video. To do this, click on "Multiperspective CPP Video" from the export drop-down menu.

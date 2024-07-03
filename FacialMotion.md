@@ -10,4 +10,4 @@
 - *Faceware Studio*: Import, track, calibrate, and stream animation data.
 - *Unreal Engine with Live Link Plugin*: Streams animation data to digital characters.
 
-For detailed instructions, visit the [FaceWare Studio Page](faceWareStudio.md).
+For detailed instructions, visit the [FaceWare Studio Page](./FacialMotion/faceWareStudio.md).

@@ -7,7 +7,7 @@ This guide will help you set up and record high-quality audio using the Rode Wir
 1. **Pair the Units**:
    - Utilize the Rode Wireless GO II microphones stored in the box labeled "VolCap Audio."
 <p align="center">
-     <img src="images/reaper/rode.PNG" width="500" height="300" alt="Open Device"></p>
+     <img src="../images/reaper/rode.PNG" width="500" height="300" alt="Open Device"></p>
      
 2. **Pair the Units**:
    - Turn on both units and pair them.
@@ -23,12 +23,12 @@ This guide will help you set up and record high-quality audio using the Rode Wir
    - Set the `Audio system` to `DirectSound`
    - Select the Rode Wireless GO II as your `Input device`.
 <p align="center">
-     <img src="images/reaper/setting.PNG" width="500" height="400" alt="Open Device"></p>
+     <img src="../images/reaper/setting.PNG" width="500" height="400" alt="Open Device"></p>
      
 3. **Create a New Track**:
    - Create a new track in your Digital Audio Workstation by going to the Track menu option.
        <p align="center">
-     <img src="images/reaper/track-insert.png" width="370" height="450" alt="Open Device">
+     <img src="../images/reaper/track-insert.png" width="370" height="450" alt="Open Device">
    </p>
 
 ## Recording Audio with Reaper
@@ -36,7 +36,7 @@ This guide will help you set up and record high-quality audio using the Rode Wir
    - Making sure that the track record is armed.
    - Click the `Record` button to start recording.
 <p align="center">
-     <img src="images/reaper/recording.png" width="250" height="300" alt="Open Device"></p>
+     <img src=../>images/reaper/recording.png" width="250" height="300" alt="Open Device"></p>
      
 2. **Stop Recording**:
    - Click the `Stop` button to stop recording and save the audio.
@@ -48,7 +48,7 @@ This guide will help you set up and record high-quality audio using the Rode Wir
    - Choose the desired `Output format`.
    - Click `Render 1 file`.
 <p align="center">
-     <img src="images/reaper/render.png" width="400" height="550" alt="Open Device"></p>
+     <img src="../images/reaper/render.png" width="400" height="550" alt="Open Device"></p>
      
 
 
