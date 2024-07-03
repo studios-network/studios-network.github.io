@@ -63,7 +63,7 @@
    - Right-click in the Project tab and select Create > Visual Effects > Depth Kit VFX Look.
    - This creates a new VFX Look file (e.g., "My VFX Look") for you to customize.
 <p align="center">
-     <img src="../images/unity/effect.png" width="1252" height="900" alt="Open Device">
+     <img src="../images/unity/effect.png" width="1000" height="800" alt="Open Device">
 </p>
 2. *Edit in VFX Graph*:
    - Double-click the newly created VFX Look file to open the VFX Graph workspace.
