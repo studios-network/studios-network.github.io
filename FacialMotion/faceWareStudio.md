@@ -62,23 +62,3 @@ This guide will help you set up and record high-quality video using Faceware Stu
      - For detailed steps, refer to the "Epic MetaHuman Setup" section on this page.
      <p align="center">
        <img src="../images/faceware/metahuman.png" width="500" height="350" alt="Using MetaHuman"></p>
-
-
-
-## Troubleshooting Data Streaming Issues
-
-If the data streaming seems unreliable:
-
-1. Ensure the "Streaming to Client" toggle is activated in Faceware Studio.
-2. Verify that the Live Link setup is operational under Window > Virtual Production > Live Link in Unreal Engine.
-   <p align="center">
-     <img src="../images/faceware/troubleshooting.png" width="400" height="300" alt="Troubleshooting Data Streaming Issues"></p>
-
-Faceware also offers live client plugins for Unity and MotionBuilder.
-
-## Additional Information
-
-- *Live Streaming*:
-  - If you intend to live stream, ensure that AJA U-TAP is correctly configured and connected.
-- *Faceware Software*:
-  - Faceware provides four different software applications, each serving a unique purpose:
