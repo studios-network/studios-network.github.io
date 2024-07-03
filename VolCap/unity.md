@@ -55,7 +55,7 @@
 2. *Add Metadata and Poster Image*:
    - Drag your metadata and poster image over to the respective fields under the Clip component within the Inspector.
 <p align="center">
-     <img src="../images/unity/drag.png" width="350" height="400" alt="Open Device">
+     <img src="../images/unity/drag.png" width="636" height="447" alt="Open Device">
 </p>
 #### Step 6: Customize Visual Effects with VFX Graph (Optional)
 
