@@ -16,8 +16,8 @@
 
 For detailed instructions, refer to the individual guides:
 
-- [Orbbec Viewer Guide](OV.md)
-- [DepthKit Guide](Depthkit.md)
-- [Git Bash Guide](Gitbash.md)
-- [Adobe Premiere Guide](adobe.md)
-- [Reaper Guide (Optional)](reaper.md)
+- [Orbbec Viewer Guide](./VolCap/volcap.md)
+- [DepthKit Guide](./VolCap/Depthkit.md)
+- [Git Bash Guide](./VolCap/Gitbash.md)
+- [Adobe Premiere Guide](./VolCap/adobe.md)
+- [Reaper Guide (Optional)](./VolCap/reaper.md)
