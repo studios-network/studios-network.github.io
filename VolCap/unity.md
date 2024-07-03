@@ -14,7 +14,6 @@
    - Click the + icon and select Add package from disk....
 <p align="center">
      <img src="../images/unity/plus.png" width="398" height="271" alt="Open Device"></p>
-
      
    - Locate the Depth Kit Core package folder.
    - Select package.json file located in "D:\Depthkit_Studio_Expansion_Package_Phase8_030722\depthkit.core" and click Open.
