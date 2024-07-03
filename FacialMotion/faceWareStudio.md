@@ -26,7 +26,7 @@ This guide will help you set up and record high-quality video using Faceware Stu
 1. *Importing Video*:
    - Import the recorded video into Faceware Studio by following these steps:
      - Open Faceware Studio.
-     - Go to File > Import and select your video file.
+     - Go to `File > Import` and select your video file.
      <p align="center">
        <img src="../images/faceware/import_video.png" width="400" height="300" alt="Import Video"></p>
 
