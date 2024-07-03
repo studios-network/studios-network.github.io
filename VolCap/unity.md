@@ -80,3 +80,6 @@
 
 1. *Refine Your Custom Look*:
    - Continue tweaking and refining your custom VFX look directly within the VFX Graph workspace.
+
+### Useful link
+- [Getting Started with Depthkit and the Visual Effect Graph](https://www.youtube.com/watch?v=8pdroeF2mEA&t=4s&ab_channel=Depthkit)
