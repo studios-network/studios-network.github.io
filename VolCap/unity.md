@@ -4,7 +4,7 @@
 
 1. Open Unity Hub and create a new project using the 3D template.
 <p align="center">
-     <img src="../images/unity/project.png" width="1024" height="728" alt="Open Device">
+     <img src="../images/unity/project.png" width="500" height="600" alt="Open Device">
 </p>
 
 #### Step 2: Install Depth Kit Packages
