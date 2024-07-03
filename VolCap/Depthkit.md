@@ -55,4 +55,4 @@ This guide will help you set up and record high-quality video using DepthKit.
    - For more information refer to this [link](https://docs.depthkit.tv/docs/exporting).
 
 ## Next Steps
-- [Go to Git Bash](Gitbash.md) for further instructions.
+- [Unity Guide](unity.md) 
