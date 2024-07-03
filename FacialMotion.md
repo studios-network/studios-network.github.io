@@ -1,3 +1,5 @@
+## *Facial Motion Capture 4030 Documentation*
+
 ### *Technologies We Use*
 
 - *Mark IV Dual Band Wireless Headcam*: Capture high-quality facial video for motion tracking.
