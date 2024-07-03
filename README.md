@@ -1,6 +1,6 @@
 # Virtual Environment Studio Documentation
 
-## *Volumetric Capture 4020 Documentation*
+## *Volumetric Capture 4020*
 
 ### *Introduction*
 
@@ -9,7 +9,7 @@ Volumetric capture records 3D spaces and objects, creating immersive, interactiv
 For detailed instructions, visit the [*Volumetric Capture Page*](VolCap.md).
 
 
-## *Facial Motion Capture 4030 Documentation*
+## *Facial Motion Capture 4030*
 
 ### *Introduction*
 
