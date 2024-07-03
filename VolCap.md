@@ -1,3 +1,5 @@
+# *Volumetric Capture 4020 Documentation*
+
 ### *Technologies We Use*
 
 - *Femto Bolt Cameras*: Capture high-resolution 3D depth data.
