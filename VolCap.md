@@ -9,9 +9,7 @@
 1. *Launch Software Sequentially*: Start with Orbbec Viewer to connect to 3D cameras and adjust settings.
 2. *Proceed with DepthKit*: Once Orbbec Viewer is set up, launch DepthKit to capture and process depth data.
 3. *Record Audio (Optional)*: Optionally, use Reaper for audio enhancement.
-4. *Use Git Bash for Version Control*: Manage project files using Git Bash for version control purposes.
-5. *Integrate with Unity*: Open Unity to render and integrate volumetric data into projects.
-6. *Finalize with Adobe Premiere*: Edit and finalize volumetric footage using Adobe Premiere.
+4. *Integrate with Unity*: Open Unity to render and integrate volumetric data into projects.
 
 
 For detailed instructions, refer to the individual guides:
