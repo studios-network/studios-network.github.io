@@ -34,7 +34,7 @@ This guide will help you set up and record high-quality video using Faceware Stu
    - Initiate tracking and calibration within Faceware Studio:
      - Go to the Tracking tab.
      - Select your imported video.
-     - Click on "Start Tracking" to begin the calibration process.
+     - Click on `Start Tracking` to begin the calibration process.
      <p align="center">
        <img src="../images/faceware/tracking.png" width="500" height="350" alt="Tracking and Calibration"></p>
 
@@ -42,7 +42,7 @@ This guide will help you set up and record high-quality video using Faceware Stu
    - To stream animation data from Faceware Studio to your character, follow these steps:
      - Ensure your character rig is set up in the animation software.
      - Go to the Streaming tab in Faceware Studio.
-     - Click "Start Streaming" to begin sending animation data.
+     - Click `Start Streaming` to begin sending animation data.
      <p align="center">
        <img src="../images/faceware/streaming.png" width="500" height="350" alt="Animation Streaming"></p>
 
