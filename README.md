@@ -1,13 +1,10 @@
-# *Virtual Environment Studio Documentation*
-
-
 ## *Volumetric Capture 4020 Documentation*
 
 ### *Introduction*
 
 Volumetric capture records 3D spaces and objects, creating immersive, interactive experiences. This technology captures depth, texture, and movement, providing realistic 3D representations for VR, AR, film, and gaming.
 
-For detailed instructions, visit the [Volumetric Capture Page](VolCap.md).
+For detailed instructions, visit the [*Volumetric Capture Page*](VolCap.md).
 
 
 ## *Facial Motion Capture 4030 Documentation*
