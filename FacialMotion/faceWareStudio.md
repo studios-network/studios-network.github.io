@@ -23,29 +23,57 @@ This guide will help you set up and record high-quality video using Faceware Stu
 
 ## Step 3: Importing and Processing Video in Faceware Studio
 
-1. *Importing Video*:
-   - Import the recorded video into Faceware Studio by following these steps:
-     - Open Faceware Studio.
-     - Go to `File > Import` and select your video file.
-     <p align="center">
-       <img src="../images/faceware/import_video.png" width="400" height="300" alt="Import Video"></p>
+Faceware Studio is software for tracking facial performance and animating a digital character in real-time. It's ideal for live events, on-set previsualization, and live online streaming with animated characters.
 
-2. *Tracking and Calibration*:
-   - Initiate tracking and calibration within Faceware Studio:
-     - Go to the Tracking tab.
-     - Select your imported video.
-     - Click on `Start Tracking` to begin the calibration process.
-     <p align="center">
-       <img src="../images/faceware/tracking.png" width="500" height="350" alt="Tracking and Calibration"></p>
+## Step 5: Basic Workflow
 
-3. *Animation Streaming*:
-   - To stream animation data from Faceware Studio to your character, follow these steps:
-     - Ensure your character rig is set up in the animation software.
-     - Go to the Streaming tab in Faceware Studio.
-     - Click `Start Streaming` to begin sending animation data.
-     <p align="center">
-       <img src="../images/faceware/streaming.png" width="500" height="350" alt="Animation Streaming"></p>
+1. *Launch FaceWare Studio*:
+   - Note: The Pathfinder bar at the top of the Faceware Studio interface guides you through the workflow step-by-step and provides immediate feedback on the status of your work.
+   <p align="center">
+     <img src="../images/faceware/bar.png" width="578" height="28" alt="Open Device">
+   </p>
+   - In the *Realtime Setup* panel, choose your video input:
+     - *Live* for live video (headcam/webcam).
+     - *Media* for prerecorded video or image sequence.
+   <p align="center">
+     <img src="../images/faceware/setup.png" width="502" height="232" alt="Open Device">
+   </p>
 
+2. *Calibrate Your Actor*:
+   - In Realtime Setup, select Face Tracking Model:
+     - *Stationary Camera* or *Professional Headcam* based on your footage.
+   <p align="center">
+     <img src="../images/faceware/camera.png" width="495" height="627" alt="Open Device"></p>
+     
+
+     - Calibrate Neutral Pose:
+     - Have the actor look straight with a neutral expression.
+     - Press "Calibrate Neutral Pose". Tracking landmarks will appear and the preview character will animate.
+   <p align="center">
+     <img src="../images/faceware/calibrate.png" width="495" height="627" alt="Open Device">
+   </p>
+
+3. *Stream Animation Data*:
+   - Open the Streaming Panel (View > Panels > Streaming Panel if closed).
+   - Enter the port number matching your Live Client plugin.
+   - Turn on *Stream to Client* to start streaming animation data.
+   <p align="center">
+     <img src="../images/faceware/port.png" width="700" height="140" alt="Open Device">
+   </p>
+  
+4. Animation Tuning
+   - It allows users to fine-tune the data streaming from Studio to increase the control that they have over the final animation by letting the user change the output on a custom shape-by-shape basis.
+   - [Click here for more information](http://support.facewaretech.com/studio-tuning$)
+   <p align="center">
+     <img src="../images/faceware/tune.png" width="397" height="204" alt="Open Device">
+   </p>
+7. Motion Effects
+   - To apply one or more motion effects to your animation, [click here for more information.](http://support.facewaretech.com/studio-motion-effects$)
+   <p align="center">
+     <img src="../images/faceware/motion.png" width="394" height="202" alt="Open Device">
+   </p>
+
+   
 ## Next Steps
 1. *Live Link Plugin*:
    - Faceware provides a live link plugin to seamlessly stream data from Faceware Studio into Unreal Engine. [Click here for more information](Unreal.md)
