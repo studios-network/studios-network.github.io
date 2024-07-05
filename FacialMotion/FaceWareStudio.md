@@ -18,8 +18,9 @@ Faceware Studio is software for tracking facial performance and animating a digi
    - In Realtime Setup, select Face Tracking Model:
      - *Stationary Camera* or *Professional Headcam* based on your footage.
    <p align="center">
-     <img src="../images/faceware/camera.png" width="495" height="627" alt="Open Device">
-   </p>
+     <img src="../images/faceware/camera.png" width="495" height="627" alt="Open Device"></p>
+     
+
      - Calibrate Neutral Pose:
      - Have the actor look straight with a neutral expression.
      - Press "Calibrate Neutral Pose". Tracking landmarks will appear and the preview character will animate.
