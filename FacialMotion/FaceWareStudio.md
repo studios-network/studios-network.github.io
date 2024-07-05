@@ -46,5 +46,5 @@ Faceware Studio is software for tracking facial performance and animating a digi
    - All Motion Effects are created, applied, and managed in the Motion Effects panel.
    - To apply one or more motion effects to your animation, [click here for more information.](http://support.facewaretech.com/studio-motion-effects$)
    <p align="center">
-     <img src="../images/faceware/notion.png" width="394" height="202" alt="Open Device">
+     <img src="../images/faceware/motion.png" width="394" height="202" alt="Open Device">
    </p>
