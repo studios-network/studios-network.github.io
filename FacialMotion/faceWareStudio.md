@@ -4,14 +4,14 @@
 ## Introduction
 This guide will help you set up and record high-quality video using Faceware Studio, and use the recorded data to animate a character.
 
-## Hardware Setup
+## Step 1: Hardware Setup
 
 1. [Click on this link to initiate the setup process for the necessary hardware for recording.](https://www.youtube.com/watch?v=kcALXTq6QIU)
 2. Use the following image as a reference to get an overview of connections and components involved in the setup:
    <p align="center">
      <img src="../images/setup_overview.png" width="600" height="400" alt="Hardware Setup Overview"></p>
 
-## Steps to Record a Video Using Mark IV
+## Step 2: Record a Video Using Mark IV
 1. *Launch Faceware Shepherd*:
    - Login using the username/password given on the key.
 2. *Activate the Camera*:
@@ -21,7 +21,7 @@ This guide will help you set up and record high-quality video using Faceware Stu
 4. *Begin Recording*:
    - If the Teradek Bolt displays "sending video" or if Faceware Shepherd shows "status ready", you're set to record.
 
-## Importing and Processing Video in Faceware Studio
+## Step 3: Importing and Processing Video in Faceware Studio
 
 1. *Importing Video*:
    - Import the recorded video into Faceware Studio by following these steps:
