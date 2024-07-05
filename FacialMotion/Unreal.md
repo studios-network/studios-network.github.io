@@ -1,6 +1,6 @@
 ### Enabling the Plugin
 
-1.Open Unreal Engine.
+1. Open Unreal Engine.
 2. Go to `Edit > Plugins`.
 3. In the plugins window, select `Installed > Animation` and find *Faceware Live Link*.
 4. Enable the plugin and restart Unreal Engine if prompted.
