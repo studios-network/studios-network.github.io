@@ -52,8 +52,11 @@
      <img src="../images/unreal/graph.png" width="769" height="501" alt="Open Device">
    </p>
 3. Drag the pin from *Animation Values* and create a *Break FTIAnimationValueData* node.
-4. For each shape, drag out from the pin and create a *Modify Curve* node.
-5. Right-click on *Modify Curve*, add a curve pin, and select the control to drive with animation data.
-6. Connect *Break FTIAnimationValueData* to the curve pin in *Modify Curve*.
-7. Connect the final *Modify Curve* node to the *Output Pose* node.
-8. Play your scene to animate your character with Faceware Studio data
+   <p align="center">
+     <img src="../images/unreal/drag.png" width="627" height="606" alt="Open Device">
+   </p>
+5. For each shape, drag out from the pin and create a *Modify Curve* node.
+6. Right-click on *Modify Curve*, add a curve pin, and select the control to drive with animation data.
+7. Connect *Break FTIAnimationValueData* to the curve pin in *Modify Curve*.
+8. Connect the final *Modify Curve* node to the *Output Pose* node.
+9. Play your scene to animate your character with Faceware Studio data
