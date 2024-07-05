@@ -13,8 +13,10 @@
 
 ### Connecting to Faceware Studio
 
-1. In Unreal Engine, open `Window > Live Link`.
-   - For Unreal Engine 5: `Window > Virtual Production > Live Link`. (check what is our version of unreal engine)
+1. In Unreal Engine, open `Window > Virtual Production > Live Link`.
+   <p align="center">
+     <img src="../images/unreal/live link.png" width="745" height="298" alt="Open Device">
+   </p>
 2. In the Live Link window, click `+Source` and select `Faceware Live Link`. Enter the IP address and port number to match your Faceware Studio input, and click **OK*.
 3. In Faceware Studio, [set up your video stream](http://support.facewaretech.com/realtime-setup) and [calibrate your video](http://support.facewaretech.com/studio-calibration). Set the [Control Schema to "Standard"](http://support.facewaretech.com/studio-stream) and [start streaming to the client](http://support.facewaretech.com/studio-stream).
 4. In Unreal, create a new animation blueprint: `Right-click in Content Browser > Animation > Animation Blueprint. Select your skeleton and click **OK`.
