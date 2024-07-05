@@ -15,12 +15,12 @@ Faceware Studio is software for tracking facial performance and animating a digi
    </p>
 
 2. *Calibrate Your Actor*:
-   - In *Realtime Setup, select **Face Tracking Model*:
+   - In Realtime Setup, select Face Tracking Model:
      - *Stationary Camera* or *Professional Headcam* based on your footage.
    <p align="center">
      <img src="../images/faceware/camera.png" width="495" height="627" alt="Open Device">
    </p>
-   - *Calibrate Neutral Pose*:
+   - Calibrate Neutral Pose:
      - Have the actor look straight with a neutral expression.
      - Press "Calibrate Neutral Pose". Tracking landmarks will appear and the preview character will animate.
    <p align="center">
@@ -28,6 +28,6 @@ Faceware Studio is software for tracking facial performance and animating a digi
    </p>
 
 4. *Stream Animation Data*:
-   - Open the *Streaming Panel* (View > Panels > Streaming Panel if closed).
+   - Open the Streaming Panel (View > Panels > Streaming Panel if closed).
    - Enter the port number matching your Live Client plugin.
    - Turn on *Stream to Client* to start streaming animation data.
