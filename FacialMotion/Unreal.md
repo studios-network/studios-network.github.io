@@ -3,11 +3,11 @@
 1. Open Unreal Engine.
 2. Go to `Edit > Plugins`.
    <p align="center">
-     <img src="../images/unreal/edit.png" width="502" height="359" alt="Open Device">
+     <img src="../images/unreal/edit1.png" width="396" height="342" alt="Open Device">
    </p>
 4. In the plugins window, select `Installed > Animation` and find *Faceware Live Link*.
    <p align="center">
-     <img src="../images/unreal/window.png" width="1250" height="634" alt="Open Device">
+     <img src="../images/unreal/window1.png" width="1250" height="634" alt="Open Device">
    </p>
 6. Enable the plugin and restart Unreal Engine if prompted.
 
