@@ -1,19 +1,19 @@
 # Faceware Live Link Plugin Using Unreal Engine
 
-## Enabling the Plugin
+## Step 1: Enabling the Plugin
 
 1. Open Unreal Engine.
 2. Go to `Edit > Plugins`.
    <p align="center">
      <img src="../images/unreal/edit1.png" width="396" height="342" alt="Open Device">
    </p>
-4. In the plugins window, select `Installed > Animation` and find *Faceware Live Link*.
+3. In the plugins window, select `Installed > Animation` and find *Faceware Live Link*.
    <p align="center">
      <img src="../images/unreal/window1.png" width="1250" height="634" alt="Open Device">
    </p>
-6. Enable the plugin and restart Unreal Engine if prompted.
+4. Enable the plugin and restart Unreal Engine if prompted.
 
-## Connecting to Faceware Studio
+## Step 2: Connecting to Faceware Studio
 
 1. In Unreal Engine, open `Window > Virtual Production > Live Link`.
    <p align="center">
@@ -47,18 +47,18 @@
      <img src="../images/unreal/image.png" width="836" height="925" alt="Open Device">
    </p>
 
-## Character Control Setup
+## Step 3: Character Control Setup
 
 1. In the *My Blueprint* panel, drag *Animation Values* into the AnimGraph and select *Get Animation Variables*.
    <p align="center">
      <img src="../images/unreal/graph.png" width="769" height="501" alt="Open Device">
    </p>
-3. Drag the pin from *Animation Values* and create a *Break FTIAnimationValueData* node.
+2. Drag the pin from *Animation Values* and create a *Break FTIAnimationValueData* node.
    <p align="center">
      <img src="../images/unreal/drag.png" width="627" height="606" alt="Open Device">
    </p>
-5. For each shape, drag out from the pin and create a *Modify Curve* node.
-6. Right-click on *Modify Curve*, add a curve pin, and select the control to drive with animation data.
-7. Connect *Break FTIAnimationValueData* to the curve pin in *Modify Curve*.
-8. Connect the final *Modify Curve* node to the *Output Pose* node.
-9. Play your scene to animate your character with Faceware Studio data
+3. For each shape, drag out from the pin and create a *Modify Curve* node.
+4. Right-click on *Modify Curve*, add a curve pin, and select the control to drive with animation data.
+5. Connect *Break FTIAnimationValueData* to the curve pin in *Modify Curve*.
+6. Connect the final *Modify Curve* node to the *Output Pose* node.
+7. Play your scene to animate your character with Faceware Studio data
