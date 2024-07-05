@@ -33,7 +33,7 @@ Faceware Studio is software for tracking facial performance and animating a digi
    - Enter the port number matching your Live Client plugin.
    - Turn on *Stream to Client* to start streaming animation data.
    <p align="center">
-     <img src="../images/faceware/port.png" width="847" height="178" alt="Open Device">
+     <img src="../images/faceware/port.png" width="700" height="100" alt="Open Device">
    </p>
   
 4. Animation Tuning
