@@ -1,4 +1,4 @@
-### Creating Visual Effects with Depth Kit and Visual Effect Graph
+## Creating Visual Effects with Depth Kit and Visual Effect Graph
 
 #### Step 1: Create a New Project via Unity Hub
 
