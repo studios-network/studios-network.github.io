@@ -1,6 +1,6 @@
-### Orbbec Viewer Guide
+# Orbbec Viewer Guide
 
-*Connecting and Viewing Device Information:*
+## *Connecting and Viewing Device Information:*
 
 1. *Connection Status:*
    - Open the Orbbec Viewer software to confirm the cameras are streaming.
@@ -10,7 +10,7 @@
      <img src="../images/OV/orbbec.png" width="373" height="299" alt="Open Device">
 </p>
 
-*Camera Control:*
+## *Camera Control:*
 
 Access these options either from the tab at the top:
 <p align="center">
@@ -30,7 +30,7 @@ Or from the Camera button to the left:
 3. *IMU (Inertial Measurement Unit):*
    - Correct IMU data and calibrate the gyroscope.
 
-*Save Image:*
+## *Save Image:*
 
 - Store depth, RGB, and IR data via the screenshot button or the "Image Save" tab.
 
