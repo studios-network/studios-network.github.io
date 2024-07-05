@@ -3,7 +3,7 @@
 ## Introduction
 This guide will help you set up and record high-quality audio using the Rode Wireless GO II system with Reaper.
 
-## Setup the Rode Wireless GO II
+## Step 1: Setup the Rode Wireless GO II
 1. **Pair the Units**:
    - Utilize the Rode Wireless GO II microphones stored in the box labeled "VolCap Audio."
 <p align="center">
@@ -14,7 +14,7 @@ This guide will help you set up and record high-quality audio using the Rode Wir
 3. **Connect the receiver to Computer**:
    - Use the USB-A to USB-C cable.
 
-## Configure Audio Settings in Reaper
+## Step 2: Configure Audio Settings in Reaper
 1. **Open Reaper**:
    - Launch Reaper on the computer.
 2. **Set Up Audio Device**:
@@ -31,7 +31,7 @@ This guide will help you set up and record high-quality audio using the Rode Wir
      <img src="../images/reaper/track-insert.png" width="614" height="590" alt="Open Device">
    </p>
 
-## Recording Audio with Reaper
+## Step 3: Recording Audio with Reaper
 1. **Start Recording**:
    - Making sure that the track record is armed.
    - Click the `Record` button to start recording.
@@ -41,7 +41,7 @@ This guide will help you set up and record high-quality audio using the Rode Wir
 2. **Stop Recording**:
    - Click the `Stop` button to stop recording and save the audio.
 
-## Exporting Audio
+## Step 4: Exporting Audio
 1. **Export as WAV or MP3**:
    - Go to `File > Render`.
    - Name the recording.
