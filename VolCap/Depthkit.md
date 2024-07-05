@@ -3,7 +3,7 @@
 ## Introduction
 This guide will help you set up and record high-quality video using DepthKit.
 
-## Setup DepthKit
+## Step 1: Setup DepthKit
 1. Launch DepthKit:
    - Launch DepthKit on the computer.
 
@@ -19,7 +19,7 @@ This guide will help you set up and record high-quality video using DepthKit.
 4. Record Audio:
    - [If you want to record audio, please click here.](reaper.md)
 
-## Recording with DepthKit
+## Step 2: Recording with DepthKit
 1. Start Streaming:
    - When you are confident with your setup, click on the "Start Streaming" button under the Controls section of DepthKit.
    - You have the option to name your take under Recording Prefix.
@@ -40,7 +40,7 @@ This guide will help you set up and record high-quality video using DepthKit.
    - Click on the "Stop Streaming" button when you have finished recording.
    - Refer to this [link](https://docs.depthkit.tv/docs/studio-recording) for more information.
 
-## Post-Recording in DepthKit
+## Step 3: Post-Recording in DepthKit
 1. Access the Editor Tab:
    - Head to the "Editor" tab.
    <p align="center">
