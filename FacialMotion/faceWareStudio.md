@@ -46,19 +46,9 @@ This guide will help you set up and record high-quality video using Faceware Stu
      <p align="center">
        <img src="../images/faceware/streaming.png" width="500" height="350" alt="Animation Streaming"></p>
 
-4. *Live Link Plugin*:
-   - Faceware provides a live link plugin to seamlessly stream data from Faceware Studio into Unreal Engine:
-     - Install the Live Link plugin in Unreal Engine.
-     - In Faceware Studio, enable the Live Link plugin under Settings > Plugins.
-     - Connect Faceware Studio to Unreal Engine using the Live Link plugin.
-     <p align="center">
-       <img src="../images/faceware/live_link.png" width="500" height="350" alt="Live Link Plugin"></p>
+## Next Steps
+1. *Live Link Plugin*:
+   - Faceware provides a live link plugin to seamlessly stream data from Faceware Studio into Unreal Engine. [Click here for more information](Unreal.md)
 
-5. *Using MetaHuman*:
-   - If you opt to use MetaHuman instead of a custom character, follow these steps:
-     - Open the MetaHuman Creator in Unreal Engine.
-     - Import the animation data from Faceware Studio.
-     - Apply the animation data to your MetaHuman character.
-     - For detailed steps, refer to the "Epic MetaHuman Setup" section on this page.
-     <p align="center">
-       <img src="../images/faceware/metahuman.png" width="500" height="350" alt="Using MetaHuman"></p>
+2. *Using MetaHuman*:
+   - If you opt to use MetaHuman instead of a custom character, [click here.](metaHuman.md)
