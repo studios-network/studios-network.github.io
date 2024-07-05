@@ -1,13 +1,13 @@
-## Creating Visual Effects with Depth Kit and Visual Effect Graph
+# Creating Visual Effects with Depth Kit and Visual Effect Graph
 
-#### Step 1: Create a New Project via Unity Hub
+## Step 1: Create a New Project via Unity Hub
 
 1. Open Unity Hub and create a new project using the 3D template.
 <p align="center">
      <img src="../images/unity/project.png" width="800" height="600" alt="Open Device">
 </p>
 
-#### Step 2: Install Depth Kit Packages
+## Step 2: Install Depth Kit Packages
 
 1. *Install VFX Graph Package*:
    - In Unity, navigate to `Window > Package Manager`.
@@ -20,7 +20,7 @@
 2. *Install Depth Kit VFX Package*:
    - Repeat the previous step for the Depth Kit Core VFX package located in `D:\Depthkit_Studio_Expansion_Package_Phase8_030722\depthkit.core.vfx`.
 
-#### Step 3: Import Depth Kit Assets
+## Step 3: Import Depth Kit Assets
 
 1. *Import Depth Kit Core VFX Prefab*:
    - In the Package Manager, find and expand Depth Kit Core VFX Graph.
@@ -36,7 +36,7 @@
      <img src="../images/unity/look.png" width="404" height="713" alt="Open Device">
 </p>
 
-#### Step 4: Set Up Depth Kit Video Files
+## Step 4: Set Up Depth Kit Video Files
 
 1. *Create Clips Folder*:
    - In the Project window, right-click in the Assets folder and create a new folder named Clips.
@@ -45,7 +45,7 @@
    - Drag your Depth Kit video assets into the Clips folder.
    - Also, drag any associated metadata text files and optional poster images into this folder.
 
-#### Step 5: Configure Depth Kit Clip
+## Step 5: Configure Depth Kit Clip
 
 1. *Set Up Video Clip*:
    - Select the Depth Kit clip in the hierarchy.
@@ -56,7 +56,7 @@
 <p align="center">
      <img src="../images/unity/drag.png" width="636" height="447" alt="Open Device"></p>
      
-#### Step 6: Customize Visual Effects with VFX Graph (Optional)
+## Step 6: Customize Visual Effects with VFX Graph (Optional)
 
 1. *Create Custom VFX Look*:
    - Right-click in the Project tab and select Create > Visual Effects > Depth Kit VFX Look.
@@ -69,14 +69,14 @@
    - Double-click the newly created VFX Look file to open the VFX Graph workspace.
    - Use the node graph to design your custom visual effect for the Depth Kit clip.
 
-#### Step 7: Apply Custom VFX Look
+## Step 7: Apply Custom VFX Look
 
 1. *Apply Custom Look to Clip*:
    - Select the Depth Kit Clip in the hierarchy.
    - In the Inspector, navigate to the Visual Effect component.
    - Update the Asset Template field to replace the Depth Kit VFX example look with your custom VFX look.
 
-#### Step 8: Final Adjustments and Tweaks
+## Step 8: Final Adjustments and Tweaks
 
 1. *Refine Your Custom Look*:
    - Continue tweaking and refining your custom VFX look directly within the VFX Graph workspace.
