@@ -2,8 +2,11 @@
 
 1. Open Unreal Engine.
 2. Go to `Edit > Plugins`.
-3. In the plugins window, select `Installed > Animation` and find *Faceware Live Link*.
-4. Enable the plugin and restart Unreal Engine if prompted.
+   <p align="center">
+     <img src="../images/unreal/edit.PNG" width="502" height="359" alt="Open Device">
+   </p>
+4. In the plugins window, select `Installed > Animation` and find *Faceware Live Link*.
+5. Enable the plugin and restart Unreal Engine if prompted.
 
 ### Connecting to Faceware Studio
 
