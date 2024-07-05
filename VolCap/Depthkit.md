@@ -45,6 +45,7 @@ This guide will help you set up and record high-quality video using DepthKit.
      <img src="../images/DK/library.PNG" width="302" height="108" alt="Open Device"></p>
 
 2. Drill into Sensors:
+   - Upon viewing the recording library, you will notice that each sensor perspective is available as a separate clip.
    - You can drill into each sensor by clicking the arrow next to the clip's name in the Library.
    <p align="center">
      <img src="../images/DK/sensor.png" width="294" height="107" alt="Open Device"></p>
