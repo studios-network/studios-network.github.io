@@ -1,6 +1,6 @@
-## Faceware Live Link Plugin Using Unreal Engine
+# Faceware Live Link Plugin Using Unreal Engine
 
-### Enabling the Plugin
+## Enabling the Plugin
 
 1. Open Unreal Engine.
 2. Go to `Edit > Plugins`.
@@ -13,7 +13,7 @@
    </p>
 6. Enable the plugin and restart Unreal Engine if prompted.
 
-### Connecting to Faceware Studio
+## Connecting to Faceware Studio
 
 1. In Unreal Engine, open `Window > Virtual Production > Live Link`.
    <p align="center">
@@ -47,7 +47,7 @@
      <img src="../images/unreal/image.png" width="836" height="925" alt="Open Device">
    </p>
 
-### Character Control Setup
+## Character Control Setup
 
 1. In the *My Blueprint* panel, drag *Animation Values* into the AnimGraph and select *Get Animation Variables*.
    <p align="center">
