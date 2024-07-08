@@ -26,8 +26,9 @@
    - Locate your MetaHuman blueprint in Content/MetaHumans/[Blueprint File].
    - Right-click and select `Create Child Blueprint Class` and name it.
    <p align="center">
-     <img src="../images/unreal/ready.png" width="502" height="232" alt="Open Device">
-   </p>
+     <img src="../images/unreal/ready.png" width="502" height="232" alt="Open Device"></p>
+
+     
    - Drag the new child blueprint into the scene.
    - Double-click the child blueprint, click `Add Component`, and add `Faceware Live`.
    <p align="center">
@@ -59,7 +60,8 @@
 7. *Animate Your MetaHuman*
    - In Unreal Engine, press Play and enable `Simulate` to see your MetaHuman animating.
    <p align="center">
-     <img src="../images/unreal/ready.png" width="502" height="232" alt="Open Device">
-   </p>
+     <img src="../images/unreal/ready.png" width="502" height="232" alt="Open Device"></p>
+
+     
    - Use the Animation Tuning and Motion Effects panels for adjustments.
    - Explore the animation blueprints in the Motion Logic folder for additional customization.
