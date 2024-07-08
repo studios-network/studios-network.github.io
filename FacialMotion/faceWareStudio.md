@@ -19,7 +19,7 @@ This guide will help you set up and record high-quality video using Faceware Stu
 3. *Power Up the Teradek Bolt*:
    - Turn on the Teradek Bolt device.
 4. *Begin Recording*:
-   - If the Teradek Bolt displays "sending video" or if Faceware Shepherd shows "status ready", you're set to record.
+   - If the Teradek Bolt shows "sending video" or Faceware Shepherd displays "status ready," you have two options: you can either record a video first and then import it to work with, or you can work live with the media while being on camera.
    <p align="center">
      <img src="../images/faceware/ready.png" width="502" height="232" alt="Open Device">
    </p>
