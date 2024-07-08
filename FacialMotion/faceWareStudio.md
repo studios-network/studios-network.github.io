@@ -82,4 +82,4 @@ Faceware Studio is software for tracking facial performance and animating a digi
    - Faceware provides a live link plugin to seamlessly stream data from Faceware Studio into Unreal Engine. [Click here for more information](Unreal.md)
 
 2. *Using MetaHuman*:
-   - If you opt to use MetaHuman instead of a custom character, [click here.](metaHuman.md)
+   - If you opt to use MetaHuman instead of a custom character, [click here.](meta.md)
