@@ -7,9 +7,11 @@ This guide will help you set up and record high-quality video using Faceware Stu
 ## Step 1: Hardware Setup
 
 1. [Click on this link to initiate the setup process for the necessary hardware for recording.](https://www.youtube.com/watch?v=kcALXTq6QIU)
-2. Use the following image as a reference to get an overview of connections and components involved in the setup:
+2. Use the following images as a reference to get an overview of connections and components involved in the setup:
    <p align="center">
-     <img src="../images/setup_overview.png" width="600" height="400" alt="Hardware Setup Overview"></p>
+     <img src="../images/faceware/head.png" width="600" height="400" alt="Hardware Setup Overview"></p>
+   <p align="center">
+     <img src="../images/faceware/wires.png" width="600" height="400" alt="Hardware Setup Overview"></p>
 
 ## Step 2: Record a Video Using Mark IV
 1. *Launch Faceware Shepherd*:
