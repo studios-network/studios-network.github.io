@@ -15,7 +15,7 @@ This guide will help you set up and record high-quality video using Faceware Stu
 1. *Launch Faceware Shepherd*:
    - Login using the username/password given on the key.
 2. *Activate the Camera*:
-   - Once all connections are established, power on the camera.
+   - Once all connections are established, turn on the camera.
 3. *Power Up the Teradek Bolt*:
    - Turn on the Teradek Bolt device.
 4. *Begin Recording*:
