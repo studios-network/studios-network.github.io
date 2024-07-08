@@ -23,8 +23,9 @@ This guide will help you set up and record high-quality video using Faceware Stu
 4. *Begin Recording*:
    - If the Teradek Bolt shows "sending video" or Faceware Shepherd displays "status ready," you have two options: you can either record a video first and then import it to work with, or you can work live with the media while being on camera.
    <p align="center">
-     <img src="../images/faceware/ready.png" width="502" height="232" alt="Open Device">
+     <img src="../images/faceware/ready.png" width="185" height="33" alt="Open Device">
    </p>
+   <p align="center">
      <img src="../images/faceware/sending.jpeg" width="502" height="232" alt="Open Device">
    </p>
 ## Step 3: Importing and Processing Video in Faceware Studio
