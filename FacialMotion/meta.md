@@ -43,7 +43,6 @@
      
 5. *Connect to Faceware Studio*
    - By default, LiveClient connects to Faceware Studio on 127.0.0.1:802.
-   - To change settings, select the MetaHuman in the scene and adjust the IP address and Port in the FacewareLive component’s Configuration section.
    - Click on `Edit > Plugins` and make sure `Live Client for Unreal` is enabled.
    <p align="center">
      <img src="../images/unreal/ready.png" width="502" height="232" alt="Open Device">
