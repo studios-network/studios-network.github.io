@@ -45,6 +45,7 @@ Faceware Studio is software for tracking facial performance and animating a digi
 2. *Calibrate Your Actor*:
    - In Realtime Setup, select Face Tracking Model:
      - *Stationary Camera* or *Professional Headcam* based on your footage.
+     - Note: Choose Professional Headcam, if you are working with the Mark IV Headcam System.
    <p align="center">
      <img src="../images/faceware/camera.png" width="495" height="627" alt="Open Device"></p>
      
