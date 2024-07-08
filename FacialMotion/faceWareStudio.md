@@ -26,7 +26,7 @@ This guide will help you set up and record high-quality video using Faceware Stu
      <img src="../images/faceware/ready.png" width="185" height="33" alt="Open Device">
    </p>
    <p align="center">
-     <img src="../images/faceware/sending.jpeg" width="502" height="232" alt="Open Device">
+     <img src="../images/faceware/sending.jpeg" width="200" height="50" alt="Open Device">
    </p>
 ## Step 3: Importing and Processing Video in Faceware Studio
 
