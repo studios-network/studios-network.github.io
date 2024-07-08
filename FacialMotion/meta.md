@@ -14,8 +14,7 @@
    - Unzip `FW_Metahuman_MotionLogic_Sample.zip` to a directory.
    - Create a new MetaHuman project and open the project directory.
    <p align="center">
-     <img src="../images/unreal/ready.png" width="502" height="232" alt="Open Device">
-   </p>
+     <img src="../images/unreal/ready.png" width="502" height="232" alt="Open Device"></p>
    - Drag the `MotionLogic` folder that you unzipped into the content folder of your project.
    <p align="center">
      <img src="../images/unreal/ready.png" width="502" height="232" alt="Open Device">
