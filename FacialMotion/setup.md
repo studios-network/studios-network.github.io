@@ -27,9 +27,9 @@ This guide will help you set up and record high-quality video using Faceware She
    </p>
 
    
-### Shepherd Recording
+## Shepherd Recording
 
-#### 1. Connect to Networked Ki Pro Devices
+### 1. Connect to Networked Ki Pro Devices
 1. Click on the `Add Ki Pro Device` button.
    <p align="center">
      <img src="../images/faceware/device.png" width="539" height="171" alt="Hardware Setup Overview"></p>
@@ -43,7 +43,7 @@ This guide will help you set up and record high-quality video using Faceware She
 3. The device list will populate with all available devices.
 
      
-#### 2. Start Recording on Ki Pro(s) from Shepherd Interface
+### 2. Start Recording on Ki Pro(s) from Shepherd Interface
 1. To begin recording, arm the Ki Pro by sliding the toggle on the right of the Device List (green = armed).
    <p align="center">
      <img src="../images/faceware/armed.png" width="532" height="89" alt="Hardware Setup Overview"></p>
