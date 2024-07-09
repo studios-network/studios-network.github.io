@@ -23,28 +23,28 @@
    <p align="center">
      <img src="../images/unreal/ip.png" width="514" height="235" alt="Open Device">
    </p>
-3. In Faceware Studio, [set up your video stream](http://support.facewaretech.com/realtime-setup) and [calibrate your video](http://support.facewaretech.com/studio-calibration). Set the [Control Schema to "Standard"](http://support.facewaretech.com/studio-stream) and [start streaming to the client](http://support.facewaretech.com/studio-stream).
+3. In Faceware Studio, set up your video stream and calibrate your video. Set the Control Schema to `Standard` and start streaming to the client.
+   <p align="center">
+     <img src="../images/unreal/stream.png" width="505" height="300" alt="Open Device">
+   </p>
 5. In Unreal, create a new animation blueprint: Right-click in `Content Browser > Animation > Animation Blueprint`. Select your skeleton and click OK.
    <p align="center">
      <img src="../images/unreal/blueprint.png" width="836" height="925" alt="Open Device">
    </p>
 4. Double-click your new blueprint in the Content Browser to open the Event Graph.
 5. In the Event Graph, from the *Update Animation* node, create and connect to *Evaluate Live Link Frame*.
-   <p align="center">
-     <img src="../images/unreal/image.png" width="836" height="925" alt="Open Device">
-   </p>
 6. Set *animationValues* in the *Subject* dropdown and make sure *FacewareLiveLinkRole* is in the *Role* dropdown.
    <p align="center">
-     <img src="../images/unreal/image.png" width="836" height="925" alt="Open Device">
+     <img src="../images/unreal/node.png" width="857" height="408" alt="Open Device">
    </p>
 7. Drag from *Data Result* pin to create a *Break FTIAnimationBlueprintData* node.
    <p align="center">
-     <img src="../images/unreal/result.png" width="836" height="600" alt="Open Device">
+     <img src="../images/unreal/break.png" width="1021" height="459" alt="Open Device">
    </p>
 8. Right click on *Animation Values*  on the new Break FTIAnimationBluePrintDate and select *Promote to Variable*.
 9. Connect the *Exec* pin from *Evaluate Live Link Frame* to the *Set* node.
    <p align="center">
-     <img src="../images/unreal/image.png" width="836" height="925" alt="Open Device">
+     <img src="../images/unreal/set.png" width="847" height="326" alt="Open Device">
    </p>
 
 ## Step 3: Character Control Setup
@@ -58,7 +58,10 @@
      <img src="../images/unreal/drag.png" width="627" height="606" alt="Open Device">
    </p>
 3. For each shape, drag out from the pin and create a *Modify Curve* node.
-4. Right-click on *Modify Curve*, add a curve pin, and select the control to drive with animation data.
-5. Connect *Break FTIAnimationValueData* to the curve pin in *Modify Curve*.
-6. Connect the final *Modify Curve* node to the *Output Pose* node.
-7. Play your scene to animate your character with Faceware Studio data
+   <p align="center">
+     <img src="../images/unreal/curve.png" width="633" height="298" alt="Open Device">
+   </p>
+5. Right-click on *Modify Curve*, add a curve pin, and select the control to drive with animation data.
+6. Connect *Break FTIAnimationValueData* to the curve pin in *Modify Curve*.
+7. Connect the final *Modify Curve* node to the *Output Pose* node.
+8. Play your scene to animate your character with Faceware Studio data
