@@ -16,6 +16,10 @@
 </p>
 
 
+<p align="center">
+    <img src="../images/unity/project.png" style="width:800px;height:600px;" alt="Open Device">
+</p>
+
 ## Step 2: Install Depth Kit Packages
 
 1. *Install VFX Graph Package*:
