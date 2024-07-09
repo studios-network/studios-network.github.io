@@ -32,7 +32,7 @@
      <img src="../images/unreal/blueprint.png" width="836" height="925" alt="Open Device">
    </p>
 4. Double-click your new blueprint in the Content Browser to open the Event Graph.
-5. In the Event Graph, from the *Update Animation* node, create and connect to *Evaluate Live Link Frame*.
+5. In the `Event Graph`, from the *Update Animation* node, create and connect to *Evaluate Live Link Frame*.
 6. Set *animationValues* in the *Subject* dropdown and make sure *FacewareLiveLinkRole* is in the *Role* dropdown.
    <p align="center">
      <img src="../images/unreal/node.png" width="857" height="408" alt="Open Device">
@@ -42,7 +42,10 @@
      <img src="../images/unreal/break.png" width="1021" height="459" alt="Open Device">
    </p>
 8. Right click on *Animation Values*  on the new Break FTIAnimationBluePrintDate and select *Promote to Variable*.
-9. Connect the *Exec* pin from *Evaluate Live Link Frame* to the *Set* node.
+   <p align="center">
+     <img src="../images/unreal/promo.png" width="552" height="291" alt="Open Device">
+   </p>
+10. Connect the *Exec* pin from *Evaluate Live Link Frame* to the *Set* node.
    <p align="center">
      <img src="../images/unreal/set.png" width="847" height="326" alt="Open Device">
    </p>
