@@ -4,11 +4,11 @@
 
 1. Open Unreal Engine.
 2. Create a new Project.
-3. Go to `Edit > Plugins`.
+3. Go to **Edit > Plugins**.
    <p align="center">
      <img src="../images/unreal/edit1.png" width="396" height="342" alt="Open Device">
    </p>
-4. In the plugins window, select `Installed > Animation` and find *Faceware Live Link*.
+4. In the plugins window, select **Installed > Animation** and find *Faceware Live Link*.
    <p align="center">
      <img src="../images/unreal/window1.png" width="1400" height="634" alt="Open Device">
    </p>
@@ -16,24 +16,24 @@
 
 ## Step 2: Connecting to Faceware Studio
 
-1. In Unreal Engine, open `Window > Virtual Production > Live Link`.
+1. In Unreal Engine, open **Window > Virtual Production > Live Link**.
    <p align="center">
      <img src="../images/unreal/live link.png" width="745" height="298" alt="Open Device">
    </p>
-2. In the Live Link window, click `+Source` and select `Faceware Live Link`. Enter the IP address and port number to match your Faceware Studio input, and click OK.
+2. In the Live Link window, click **+Source** and select **Faceware Live Link**. Enter the IP address and port number to match your Faceware Studio input, and click OK.
    <p align="center">
      <img src="../images/unreal/ip.png" width="514" height="235" alt="Open Device">
    </p>
-3. In Faceware Studio, set up your video stream and calibrate your video. Set the Control Schema to `Standard` and start streaming to the client.
+3. In Faceware Studio, set up your video stream and calibrate your video. Set the Control Schema to **Standard** and start streaming to the client.
    <p align="center">
      <img src="../images/unreal/stream.png" width="505" height="300" alt="Open Device">
    </p>
-5. In Unreal, create a new animation blueprint: Right-click in `Content Browser > Animation > Animation Blueprint`. Select your skeleton and click OK.
+5. In Unreal, create a new animation blueprint: Right-click in **Content Browser > Animation > Animation Blueprint**. Select your skeleton and click OK.
    <p align="center">
      <img src="../images/unreal/blueprint.png" width="836" height="925" alt="Open Device">
    </p>
 4. Double-click your new blueprint in the Content Browser to open the Event Graph.
-5. In the `Event Graph`, from the *Update Animation* node, create and connect to *Evaluate Live Link Frame*.
+5. In the **Event Graph**, from the *Update Animation* node, create and connect to *Evaluate Live Link Frame*.
 6. Set *animationValues* in the *Subject* dropdown and make sure *FacewareLiveLinkRole* is in the *Role* dropdown.
    <p align="center">
      <img src="../images/unreal/node.png" width="857" height="408" alt="Open Device">
