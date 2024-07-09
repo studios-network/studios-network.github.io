@@ -10,15 +10,15 @@
 ## Step 2: Install Depth Kit Packages
 
 1. *Install VFX Graph Package*:
-   - In Unity, navigate to `Window > Package Manager`.
+   - In Unity, navigate to **Window > Package Manager**.
    - Click the + icon and select Add package from disk....
 <p align="center"><img src="../images/unity/plus.png" width="398" height="271" alt="Open Device"></p>
 
    - Locate the Depth Kit Core package folder.
-   - Select package.json file located in `D:\Depthkit_Studio_Expansion_Package_Phase8_030722\depthkit.core` and click Open.
+   - Select package.json file located in **D:\Depthkit_Studio_Expansion_Package_Phase8_030722\depthkit.core** and click Open.
 
 2. *Install Depth Kit VFX Package*:
-   - Repeat the previous step for the Depth Kit Core VFX package located in `D:\Depthkit_Studio_Expansion_Package_Phase8_030722\depthkit.core.vfx`.
+   - Repeat the previous step for the Depth Kit Core VFX package located in **D:\Depthkit_Studio_Expansion_Package_Phase8_030722\depthkit.core.vfx**.
 
 ## Step 3: Import Depth Kit Assets
 
