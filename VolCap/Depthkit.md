@@ -8,7 +8,7 @@ This guide will help you set up and record high-quality video using DepthKit.
    - Launch DepthKit on the computer.
 
 2. Open Existing Project:
-   - To use the existing calibration, double-click on the project folder located at "D:\DepthKit" named "Volcap_4020".
+   - To use the existing calibration, double-click on the project folder located at **D:\DepthKit\Volcap_4020**.
    - If you encounter any issues with the camera calibration, please refer to the [Calibration documentation](https://docs.depthkit.tv/docs/calibration) on recalibrating the cameras. If necessary, please create a new project for this purpose.
 
 3. Position the Subject:
@@ -21,7 +21,7 @@ This guide will help you set up and record high-quality video using DepthKit.
 
 ## Step 2: Recording with DepthKit
 1. Start Streaming:
-   - When you are confident with your setup, click on the "Start Streaming" button under the Controls section of DepthKit.
+   - When you are confident with your setup, click on the **Start Streaming** button under the Controls section of DepthKit.
    - You have the option to name your take under Recording Prefix.
    - Remember to use a visual and audible cue at the beginning of each take, such as clapping your hands, to help with the syncing process.
    <p align="center">
@@ -37,12 +37,12 @@ This guide will help you set up and record high-quality video using DepthKit.
    - After finishing your recording session, click on the "End Recording" button.
 
 4. Stop Streaming:
-   - Click on the "Stop Streaming" button when you have finished recording.
+   - Click on the **Stop Streaming** button when you have finished recording.
    - Refer to this [link](https://docs.depthkit.tv/docs/studio-recording) for more information.
 
 ## Step 3: Post-Recording in DepthKit
 1. Access the Editor Tab:
-   - Head to the "Editor" tab.
+   - Head to the **Editor** tab.
    <p align="center">
      <img src="../images/DK/library.PNG" width="302" height="108" alt="Open Device"></p>
 
