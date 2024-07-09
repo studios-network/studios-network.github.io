@@ -49,7 +49,7 @@ This guide will help you set up and record high-quality video using Faceware Stu
 
 Faceware Studio is software for tracking facial performance and animating a digital character in real-time. It's ideal for live events, on-set previsualization, and live online streaming with animated characters.
 
-## Step 4: Basic Workflow
+## Step 4: Faceware Studio Basic Workflow
 
 1. *Launch FaceWare Studio*:
    - Note: The Pathfinder bar at the top of the Faceware Studio interface guides you through the workflow step-by-step and provides immediate feedback on the status of your work.
