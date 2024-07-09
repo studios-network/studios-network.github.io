@@ -21,7 +21,7 @@ This guide will help you set up and record high-quality video using Faceware She
 3. *Power Up the Teradek Bolt*:
    - Turn on the Teradek Bolt device.
 4. *Begin Recording*:
-   - If the Teradek Bolt shows "sending video", you have two options: you can either record a video first and then import it to work with, or you can work live with the media while being on camera.
+   - If the Teradek Bolt shows **sending video**, you have two options: you can either record a video first and then import it to work with, or you can work live with the media while being on camera.
    <p align="center">
      <img src="../images/faceware/sending.jpeg" width="400" height="200" alt="Open Device">
    </p>
@@ -30,12 +30,12 @@ This guide will help you set up and record high-quality video using Faceware She
 ## Shepherd Recording
 
 ### 1. Connect to Networked Ki Pro Devices
-1. Click on the `Add Ki Pro Device` button.
+1. Click on the **Add Ki Pro Device** button.
    <p align="center">
      <img src="../images/faceware/device.png" width="539" height="171" alt="Hardware Setup Overview"></p>
 
      
-2. Select `Add All Ki Pros on Your Network`.
+2. Select **Add All Ki Pros on Your Network**.
    <p align="center">
      <img src="../images/faceware/add.png" width="372" height="249" alt="Hardware Setup Overview"></p>
 
@@ -54,7 +54,7 @@ This guide will help you set up and record high-quality video using Faceware She
      <img src="../images/faceware/name.png" width="383" height="68" alt="Hardware Setup Overview"></p>
 
      
-3. Once armed and named, the Record transport control will become active and Status will show `Ready`.
+3. Once armed and named, the Record transport control will become active and Status will show **Ready**.
    <p align="center">
      <img src="../images/faceware/ready.png" width="185" height="33" alt="Open Device"></p>
      
