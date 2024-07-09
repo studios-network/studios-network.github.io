@@ -37,7 +37,7 @@ This guide will help you set up and record high-quality video using Faceware She
      
 2. Select `Add All Ki Pros on Your Network`.
    <p align="center">
-     <img src="../images/faceware/add.png" width="600" height="400" alt="Hardware Setup Overview"></p>
+     <img src="../images/faceware/add.png" width="372" height="249" alt="Hardware Setup Overview"></p>
 
      
 3. The device list will populate with all available devices.
@@ -49,7 +49,7 @@ This guide will help you set up and record high-quality video using Faceware She
 #### 2. Start Recording on Ki Pro(s) from Shepherd Interface
 1. To begin recording, arm the Ki Pro by sliding the toggle on the right of the Device List (green = armed).
    <p align="center">
-     <img src="../images/faceware/armed.png" width="600" height="400" alt="Hardware Setup Overview"></p>
+     <img src="../images/faceware/armed.png" width="532" height="89" alt="Hardware Setup Overview"></p>
 
      
 3. Enter a clip name and a take number in the fields at the top left (take numbers auto-increment).
@@ -69,7 +69,7 @@ This guide will help you set up and record high-quality video using Faceware She
 
 5. After recording, go to the panel on the left (name of the panel). Right-click the desired take and select Transfer Selected Clip to save the video.
    <p align="center">
-     <img src="../images/faceware/transfer.png" width="600" height="400" alt="Hardware Setup Overview"></p>
+     <img src="../images/faceware/transfer.png" width="782" height="209" alt="Hardware Setup Overview"></p>
 
 ## Next Steps
 - [Faceware Studio Guide](faceWareStudio.md) 
