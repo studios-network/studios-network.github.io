@@ -12,6 +12,7 @@
 
 For detailed instructions, refer to the individual guides:
 
-- [FaceWare Technology Guide](./FacialMotion/faceWareStudio.md)
+- [Mark IV Headcam setup & Faceware Shepherd Guide](./FacialMotion/setup.md)
+- [Faceware Studio Guide](./FacialMotion/faceWareStudio.md)
 - [Unreal Engine Live Link Plugin Guide](./FacialMotion/Unreal.md)
 - [MetaHuman Guide](./FacialMotion/meta.md)
