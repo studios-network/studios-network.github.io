@@ -3,6 +3,7 @@
 ## Step 1: Create a New Project via Unity Hub
 
 1. Open Unity Hub and create a new project using the 3D template.
+
 <style>
 .fixed-size {
     width: 800px;
