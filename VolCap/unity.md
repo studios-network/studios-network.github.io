@@ -3,6 +3,18 @@
 ## Step 1: Create a New Project via Unity Hub
 
 1. Open Unity Hub and create a new project using the 3D template.
+<style>
+.fixed-size {
+    width: 800px;
+    height: 600px;
+}
+</style>
+
+<p align="center">
+    <img src="../images/unity/project.png" class="fixed-size" alt="Open Device">
+</p>
+
+
 <p align="center">
      <img src="../images/unity/project.png" width="800" height="600" alt="Open Device">
 </p>
