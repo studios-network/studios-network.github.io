@@ -5,7 +5,7 @@ This guide will help you set up and record high-quality audio using the Rode Wir
 
 ## Step 1: Setup the Rode Wireless GO II
 1. **Pair the Units**:
-   - Utilize the Rode Wireless GO II microphones stored in the box labeled "VolCap Audio."
+   - Utilize the Rode Wireless GO II microphones stored in the box labeled **VolCap Audio**.
 <p align="center">
      <img src="../images/reaper/rode.PNG" width="500" height="300" alt="Open Device"></p>
      
@@ -18,7 +18,7 @@ This guide will help you set up and record high-quality audio using the Rode Wir
 1. **Open Reaper**:
    - Launch Reaper on the computer.
 2. **Set Up Audio Device**:
-   - Go to `Options > Preferences`.
+   - Go to **Options > Preferences.
    - Select `Audio > Device`.
    - Set the `Audio system` to `DirectSound`
    - Select the Rode Wireless GO II as your `Input device`.
