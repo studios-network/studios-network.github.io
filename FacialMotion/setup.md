@@ -49,22 +49,23 @@ This guide will help you set up and record high-quality video using Faceware She
      <img src="../images/faceware/armed.png" width="532" height="89" alt="Hardware Setup Overview"></p>
 
      
-3. Enter a clip name and a take number in the fields at the top left (take numbers auto-increment).
+2. Enter a clip name and a take number in the fields at the top left (take numbers auto-increment).
    <p align="center">
      <img src="../images/faceware/name.png" width="383" height="68" alt="Hardware Setup Overview"></p>
 
      
-5. Once armed and named, the Record transport control will become active and Status will show `Ready`.
+3. Once armed and named, the Record transport control will become active and Status will show `Ready`.
+   <p align="center">
+     <img src="../images/faceware/ready.png" width="185" height="33" alt="Open Device"></p>
+     
    <p align="center">
      <img src="../images/faceware/recording.png" width="539" height="109" alt="Open Device"></p>
 
      
-6. Press Record to start and Stop to end. The playlist updates with the new clip and increments the take number.
-   <p align="center">
-     <img src="../images/faceware/device.png" width="600" height="400" alt="Hardware Setup Overview"></p>
+4. Press Record to start and Stop to end. The playlist updates with the new clip and increments the take number.
 
 
-5. After recording, go to the panel on the left (name of the panel). Right-click the desired take and select Transfer Selected Clip to save the video.
+5. After recording, go to the panel on the left. Right-click the desired take and select Transfer Selected Clip to save the video.
    <p align="center">
      <img src="../images/faceware/transfer.png" width="782" height="209" alt="Hardware Setup Overview"></p>
 
