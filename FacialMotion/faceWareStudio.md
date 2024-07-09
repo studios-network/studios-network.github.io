@@ -6,8 +6,8 @@ Faceware Studio is software for tracking facial performance and animating a digi
 ## Step 1: *Launch FaceWare Studio*:
    - Note: The Pathfinder bar at the top of the Faceware Studio interface guides you through the workflow step-by-step and provides immediate feedback on the status of your work.
    <p align="center">
-     <img src="../images/faceware/bar.png" width="578" height="28" alt="Open Device"></p>
-
+     <img src="../images/faceware/bar.png" width="578" height="28" alt="Open Device">
+   </p>
      
      - In the *Realtime Setup* panel, choose your video input:
      - *Live* for live video (headcam/webcam).
