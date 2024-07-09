@@ -65,7 +65,8 @@
    <p align="center">
      <img src="../images/unreal/curve.png" width="633" height="298" alt="Open Device">
    </p>
-5. Right-click on *Modify Curve*, add a curve pin, and select the control to drive with animation data.
-6. Connect *Break FTIAnimationValueData* to the curve pin in *Modify Curve*.
+4. Right-click on *Modify Curve*, add a curve pin, and select the control to drive with animation data (JawOpen in this example).
+5. Connect *Break FTIAnimationValueData* to the curve pin in *Modify Curve*.
+6. Repeat steps 3-5 for each shape you are driving from the animation, connecting the animation pose output from each Modify Curve node to the input for the next one.
 7. Connect the final *Modify Curve* node to the *Output Pose* node.
 8. Play your scene to animate your character with Faceware Studio data
