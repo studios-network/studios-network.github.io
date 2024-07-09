@@ -27,7 +27,7 @@ This guide will help you set up and record high-quality video using Faceware Stu
    </p>
 
    
-### Shepherd Recording: Basic Usage
+### Shepherd Recording
 
 #### 1. Connect to Networked Ki Pro Devices
 1. Click on the `Add Ki Pro Device` button.
@@ -37,7 +37,7 @@ This guide will help you set up and record high-quality video using Faceware Stu
 #### 2. Start Recording on Ki Pro(s) from Shepherd Interface
 1. To begin recording, arm the Ki Pro by sliding the toggle on the right of the Device List (green = armed).
 2. Enter a clip name and a take number in the fields at the top left (take numbers auto-increment).
-3. Once armed and named, the Record button will become active and Status will show "Ready".
+3. Once armed and named, the Record button will become active and Status will show `Ready`.
    <p align="center">
      <img src="../images/faceware/ready.png" width="185" height="33" alt="Open Device"></p>
 
