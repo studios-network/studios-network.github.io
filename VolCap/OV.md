@@ -32,7 +32,7 @@ Or from the Camera button to the left:
 
 ## *Save Image:*
 
-- Store depth, RGB, and IR data via the screenshot button or the "Image Save" tab.
+- Store depth, RGB, and IR data via the screenshot button or the **Image Save** tab.
 
 *Stream Preview Window Controls:*
 
