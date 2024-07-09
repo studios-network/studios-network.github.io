@@ -6,7 +6,7 @@ This guide will help you set up and record high-quality video using Faceware She
 
 ## Step 1: Hardware Setup
 
-1. [Click on this link to initiate the setup process for the necessary hardware for recording.](https://www.youtube.com/watch?v=kcALXTq6QIU)
+1. [Click here to initiate the setup process for the necessary hardware for recording.](https://www.youtube.com/watch?v=kcALXTq6QIU)
 2. Use the following images as a reference to get an overview of connections and components involved in the setup:
    <p align="center">
      <img src="../images/faceware/headcam.jpeg" width="600" height="400" alt="Hardware Setup Overview"></p>
