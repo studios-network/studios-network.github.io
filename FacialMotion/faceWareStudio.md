@@ -47,6 +47,7 @@ Faceware Studio is software for tracking facial performance and animating a digi
    <p align="center">
      <img src="../images/faceware/tune.png" width="397" height="204" alt="Open Device">
    </p>
+   
 ## Step 5: Motion Effects
    - To apply one or more motion effects to your animation, [click here for more information.](http://support.facewaretech.com/studio-motion-effects$)
    <p align="center">
