@@ -70,3 +70,6 @@ This guide will help you set up and record high-quality video using Faceware She
 5. After recording, go to the panel on the left (name of the panel). Right-click the desired take and select Transfer Selected Clip to save the video.
    <p align="center">
      <img src="../images/faceware/transfer.png" width="600" height="400" alt="Hardware Setup Overview"></p>
+
+## Next Steps
+- [Faceware Studio Guide](faceWareStudio.md) 
