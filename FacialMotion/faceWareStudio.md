@@ -27,7 +27,7 @@ Faceware Studio is software for tracking facial performance and animating a digi
 
    - Calibrate Neutral Pose:
    - Have the actor look straight with a neutral expression.
-   - Press "Calibrate Neutral Pose". Tracking landmarks will appear and the preview character will animate.
+   - Press **Calibrate Neutral Pose**. Tracking landmarks will appear and the preview character will animate.
 
    <p align="center">
      <img src="../images/faceware/calibrate.png" width="260" height="70" alt="Open Device">
