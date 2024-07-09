@@ -3,15 +3,16 @@
 ## Step 1: Enabling the Plugin
 
 1. Open Unreal Engine.
-2. Go to `Edit > Plugins`.
+2. Create a new Project.
+3. Go to `Edit > Plugins`.
    <p align="center">
      <img src="../images/unreal/edit1.png" width="396" height="342" alt="Open Device">
    </p>
-3. In the plugins window, select `Installed > Animation` and find *Faceware Live Link*.
+4. In the plugins window, select `Installed > Animation` and find *Faceware Live Link*.
    <p align="center">
      <img src="../images/unreal/window1.png" width="1400" height="634" alt="Open Device">
    </p>
-4. Enable the plugin and restart Unreal Engine if prompted.
+5. Enable the plugin and restart Unreal Engine if prompted.
 
 ## Step 2: Connecting to Faceware Studio
 
