@@ -14,7 +14,7 @@
 
 Access these options either from the tab at the top:
 <p align="center">
-     <img src="../images/OV/tab.png" width="578" height="42" alt="Open Device">
+     <img src="../images/OV/Tab.png" width="396" height="28" alt="Open Device">
 </p>
 Or from the Camera button to the left:
 <p align="center">
