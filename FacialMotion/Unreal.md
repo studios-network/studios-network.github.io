@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="../assets/style.css">
+
 # Faceware Live Link Plugin Using Unreal Engine
 
 ## Step 1: Enabling the Plugin
