@@ -30,21 +30,21 @@
    <p align="center">
      <img src="../images/unreal/stream.png" width="505" height="300" alt="Open Device">
    </p>
-5. In Unreal, create a new animation blueprint: Right-click in **Content Browser > Animation > Animation Blueprint**. Select your skeleton and click OK.
+4. In Unreal, create a new animation blueprint: Right-click in **Content Browser > Animation > Animation Blueprint**. Select your skeleton and click OK.
    <p align="center">
-     <img src="../images/unreal/blueprint.png" width="836" height="925" alt="Open Device">
+     <img src="../images/unreal/bluePrint.png" width="319" height="342" alt="Open Device">
    </p>
-4. Double-click your new blueprint in the Content Browser to open the Event Graph.
-5. In the **Event Graph**, from the *Update Animation* node, create and connect to *Evaluate Live Link Frame*.
-6. Set *animationValues* in the *Subject* dropdown and make sure *FacewareLiveLinkRole* is in the *Role* dropdown.
+5. Double-click your new blueprint in the Content Browser to open the Event Graph.
+6. In the **Event Graph**, from the *Update Animation* node, create and connect to *Evaluate Live Link Frame*.
+7. Set *animationValues* in the *Subject* dropdown and make sure *FacewareLiveLinkRole* is in the *Role* dropdown.
    <p align="center">
-     <img src="../images/unreal/node.png" width="857" height="408" alt="Open Device">
+     <img src="../images/unreal/Node.png" width="396" height="216" alt="Open Device">
    </p>
-7. Drag from *Data Result* pin to create a *Break FTIAnimationBlueprintData* node.
+8. Drag from *Data Result* pin to create a *Break FTIAnimationBlueprintData* node.
    <p align="center">
-     <img src="../images/unreal/break.png" width="1021" height="459" alt="Open Device">
+     <img src="../images/unreal/Break.png" width="396" height="178" alt="Open Device">
    </p>
-8. Right click on *Animation Values*  on the new Break FTIAnimationBluePrintDate and select *Promote to Variable*.
+9. Right click on *Animation Values*  on the new Break FTIAnimationBluePrintDate and select *Promote to Variable*.
    <p align="center">
      <img src="../images/unreal/promo.png" width="552" height="291" alt="Open Device">
    </p>
@@ -57,11 +57,11 @@
 
 1. In the *My Blueprint* panel, drag *Animation Values* into the AnimGraph and select *Get Animation Variables*.
    <p align="center">
-     <img src="../images/unreal/graph.png" width="769" height="501" alt="Open Device">
+     <img src="../images/unreal/Graph.png" width="396" height="257" alt="Open Device">
    </p>
 2. Drag the pin from *Animation Values* and create a *Break FTIAnimationValueData* node.
    <p align="center">
-     <img src="../images/unreal/drag.png" width="627" height="606" alt="Open Device">
+     <img src="../images/unreal/Drag.png" width="396" height="382" alt="Open Device">
    </p>
 3. For each shape, drag out from the pin and create a *Modify Curve* node.
    <p align="center">
