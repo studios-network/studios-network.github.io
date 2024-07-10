@@ -25,13 +25,13 @@ This guide will help you set up and record high-quality video using DepthKit.
    - You have the option to name your take under Recording Prefix.
    - Remember to use a visual and audible cue at the beginning of each take, such as clapping your hands, to help with the syncing process.
    <p align="center">
-     <img src="../images/DK/cue.PNG" width="600" height="600" alt="Open Device">
+     <img src="../images/DK/Cue.PNG" width="396" height="420" alt="Open Device">
    </p>
 
 2. Begin Recording:
    - In DepthKit, hit the Record button; a Diagnostics panel will be displayed.
    <p align="center">
-     <img src="../images/DK/main.PNG" width="1000" height="600" alt="Open Device"></p>
+     <img src="../images/DK/Main.PNG" width="396" height="213" alt="Open Device"></p>
 
 3. End Recording:
    - After finishing your recording session, click on the "End Recording" button.
