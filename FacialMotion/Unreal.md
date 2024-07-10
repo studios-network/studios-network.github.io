@@ -20,7 +20,7 @@
 
 1. In Unreal Engine, open **Window > Virtual Production > Live Link**.
    <p align="center">
-     <img src="../images/unreal/live link.png" width="745" height="298" alt="Open Device">
+     <img src="../images/unreal/liveLink.png" width="395" height="264" alt="Open Device">
    </p>
 2. In the Live Link window, click **+Source** and select **Faceware Live Link**. Enter the IP address and port number to match your Faceware Studio input, and click OK.
    <p align="center">
