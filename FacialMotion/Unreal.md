@@ -28,7 +28,7 @@
    </p>
 3. In Faceware Studio, set up your video stream and calibrate your video. Set the Control Schema to **Standard** and start streaming to the client.
    <p align="center">
-     <img src="../images/unreal/stream.png" width="505" height="300" alt="Open Device">
+     <img src="../images/unreal/Stream.png" width="396" height="235" alt="Open Device">
    </p>
 4. In Unreal, create a new animation blueprint: Right-click in **Content Browser > Animation > Animation Blueprint**. Select your skeleton and click OK.
    <p align="center">
@@ -46,7 +46,7 @@
    </p>
 9. Right click on *Animation Values*  on the new Break FTIAnimationBluePrintDate and select *Promote to Variable*.
    <p align="center">
-     <img src="../images/unreal/promo.png" width="552" height="291" alt="Open Device">
+     <img src="../images/unreal/Promo.png" width="396" height="208" alt="Open Device">
    </p>
 10. Connect the *Exec* pin from *Evaluate Live Link Frame* to the *Set* node.
    <p align="center">
