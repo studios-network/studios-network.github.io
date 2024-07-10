@@ -50,7 +50,7 @@
    </p>
 10. Connect the *Exec* pin from *Evaluate Live Link Frame* to the *Set* node.
    <p align="center">
-     <img src="../images/unreal/set.png" width="847" height="326" alt="Open Device">
+     <img src="../images/unreal/Set.png" width="396" height="152" alt="Open Device">
    </p>
 
 ## Step 3: Character Control Setup
