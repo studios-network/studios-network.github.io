@@ -5,7 +5,7 @@
 1. Open Unity Hub and create a new project using the 3D template.
 
 <p align="center">
-     <img src="../images/unity/project.png" width="800" height="600" alt="Open Device">
+     <img src="../images/unity/Project.png" width="396" height="281" alt="Open Device">
 </p>
 
 ## Step 2: Install Depth Kit Packages
@@ -27,14 +27,14 @@
    - In the Package Manager, find and expand Depth Kit Core VFX Graph.
    - Toggle to import the Depth Kit Core VFX Prefab, which includes an example VFX setup.
 <p align="center">
-     <img src="../images/unity/import.png" width="895" height="353" alt="Open Device">
+     <img src="../images/unity/Import.png" width="396" height="156" alt="Open Device">
 </p>
 
 2. *Drag Prefab to Scene*:
    - In the Project window under Assets, locate the imported prefab under Samples.
    - Select Depth Kit Clip Plus Core VFX prefab and drag it into your scene hierarchy.
 <p align="center">
-     <img src="../images/unity/look.png" width="404" height="713" alt="Open Device">
+     <img src="../images/unity/Look.png" width="396" height="698" alt="Open Device">
 </p>
 
 ## Step 4: Set Up Depth Kit Video Files
@@ -55,7 +55,7 @@
 2. *Add Metadata and Poster Image*:
    - Drag your metadata and poster image over to the respective fields under the Clip component within the Inspector.
 <p align="center">
-     <img src="../images/unity/drag.png" width="636" height="447" alt="Open Device"></p>
+     <img src="../images/unity/Drag.png" width="396" height="278" alt="Open Device"></p>
      
 ## Step 6: Customize Visual Effects with VFX Graph (Optional)
 
@@ -63,7 +63,7 @@
    - Right-click in the Project tab and select Create > Visual Effects > Depth Kit VFX Look.
    - This creates a new VFX Look file (e.g., "My VFX Look") for you to customize.
 <p align="center">
-     <img src="../images/unity/effect.png" width="900" height="700" alt="Open Device">
+     <img src="../images/unity/Effect.png" width="396" height="341" alt="Open Device">
 </p>
 
 2. *Edit in VFX Graph*:
