@@ -32,7 +32,7 @@ This guide will help you set up and record high-quality video using Faceware She
 ### 1. Connect to Networked Ki Pro Devices
 1. Click on the **Add Ki Pro Device** button.
    <p align="center">
-     <img src="../images/faceware/device.png" width="539" height="171" alt="Hardware Setup Overview"></p>
+     <img src="../images/faceware/Device.png" width="396" height="125" alt="Hardware Setup Overview"></p>
 
      
 2. Select **Add All Ki Pros on Your Network**.
@@ -46,7 +46,7 @@ This guide will help you set up and record high-quality video using Faceware She
 ### 2. Start Recording on Ki Pro(s) from Shepherd Interface
 1. To begin recording, arm the Ki Pro by sliding the toggle on the right of the Device List (green = armed).
    <p align="center">
-     <img src="../images/faceware/armed.png" width="532" height="89" alt="Hardware Setup Overview"></p>
+     <img src="../images/faceware/Armed.png" width="396" height="66" alt="Hardware Setup Overview"></p>
 
      
 2. Enter a clip name and a take number in the fields at the top left (take numbers auto-increment).
@@ -59,7 +59,7 @@ This guide will help you set up and record high-quality video using Faceware She
      <img src="../images/faceware/ready.png" width="185" height="33" alt="Open Device"></p>
      
    <p align="center">
-     <img src="../images/faceware/recording.png" width="539" height="109" alt="Open Device"></p>
+     <img src="../images/faceware/Recording.png" width="396" height="80" alt="Open Device"></p>
 
      
 4. Press Record to start and Stop to end. The playlist updates with the new clip and increments the take number.
@@ -67,7 +67,7 @@ This guide will help you set up and record high-quality video using Faceware She
 
 5. After recording, go to the panel on the left. Right-click the desired take and select Transfer Selected Clip to save the video.
    <p align="center">
-     <img src="../images/faceware/transfer.png" width="782" height="209" alt="Hardware Setup Overview"></p>
+     <img src="../images/faceware/Transfer.png" width="396" height="113" alt="Hardware Setup Overview"></p>
 
 ## Next Step:
 - [Faceware Studio Guide](faceWareStudio.md) 
