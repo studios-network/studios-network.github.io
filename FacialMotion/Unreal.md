@@ -24,7 +24,7 @@
    </p>
 2. In the Live Link window, click **+Source** and select **Faceware Live Link**. Enter the IP address and port number to match your Faceware Studio input, and click OK.
    <p align="center">
-     <img src="../images/unreal/ip.png" width="514" height="235" alt="Open Device">
+     <img src="../images/unreal/IP.png" width="396" height="181" alt="Open Device">
    </p>
 3. In Faceware Studio, set up your video stream and calibrate your video. Set the Control Schema to **Standard** and start streaming to the client.
    <p align="center">
@@ -65,7 +65,7 @@
    </p>
 3. For each shape, drag out from the pin and create a *Modify Curve* node.
    <p align="center">
-     <img src="../images/unreal/curve.png" width="633" height="298" alt="Open Device">
+     <img src="../images/unreal/Curve.png" width="396" height="186" alt="Open Device">
    </p>
 4. Right-click on *Modify Curve*, add a curve pin, and select the control to drive with animation data (JawOpen in this example).
 5. Connect *Break FTIAnimationValueData* to the curve pin in *Modify Curve*.
