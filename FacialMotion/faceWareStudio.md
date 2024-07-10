@@ -6,7 +6,7 @@ Faceware Studio is software for tracking facial performance and animating a digi
 ## Step 1: *Launch Faceware Studio*:
    - Note: The Pathfinder bar at the top of the Faceware Studio interface guides you through the workflow step-by-step and provides immediate feedback on the status of your work.
    <p align="center">
-     <img src="../images/faceware/bar.png" width="578" height="28" alt="Open Device">
+     <img src="../images/faceware/Bar.png" width="396" height="19" alt="Open Device">
    </p>
 
    - In the *Realtime Setup* panel, choose your video input:
@@ -14,7 +14,7 @@ Faceware Studio is software for tracking facial performance and animating a digi
    - *Media* for prerecorded video or image sequence.
 
    <p align="center">
-     <img src="../images/faceware/setup.png" width="502" height="232" alt="Open Device">
+     <img src="../images/faceware/Setup.png" width="396" height="183" alt="Open Device">
    </p>
 
 ## Step 2: *Calibrate Your Actor*:
@@ -22,7 +22,7 @@ Faceware Studio is software for tracking facial performance and animating a digi
      - *Stationary Camera* or *Professional Headcam* based on your footage.
      - Note: Choose Professional Headcam, if you are working with the Mark IV Headcam System.
    <p align="center">
-     <img src="../images/faceware/camera.png" width="495" height="627" alt="Open Device"></p>
+     <img src="../images/faceware/Camera.png" width="396" height="501" alt="Open Device"></p>
      
 
    - Calibrate Neutral Pose:
@@ -38,7 +38,7 @@ Faceware Studio is software for tracking facial performance and animating a digi
    - Enter the port number matching your Live Client plugin.
    - Turn on *Stream to Client* to start streaming animation data.
    <p align="center">
-     <img src="../images/faceware/port.png" width="700" height="140" alt="Open Device">
+     <img src="../images/faceware/Port.png" width="396" height="83" alt="Open Device">
    </p>
   
 ## Step 4: Animation Tuning
