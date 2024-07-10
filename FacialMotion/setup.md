@@ -69,5 +69,5 @@ This guide will help you set up and record high-quality video using Faceware She
    <p align="center">
      <img src="../images/faceware/transfer.png" width="782" height="209" alt="Hardware Setup Overview"></p>
 
-## Next Steps
+## Next Step:
 - [Faceware Studio Guide](faceWareStudio.md) 
