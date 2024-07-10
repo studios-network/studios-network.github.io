@@ -38,6 +38,6 @@ Or from the Camera button to the left:
 
 - Use buttons for maximizing/minimizing, showing/hiding metadata, pausing/starting streams, capturing snapshots, adjusting preview size, and stopping streams.
 
----
+## Next Step:
+- [Depthkit Guide](Depthkit.md)
 
-Next step: [Go to DepthKit](Depthkit.md)
