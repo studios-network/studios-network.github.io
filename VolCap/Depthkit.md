@@ -57,5 +57,5 @@ This guide will help you set up and record high-quality video using DepthKit.
    - Then, go to the location where the files were saved and copy the generated files from DepthKit.
    - For more information refer to this [link](https://docs.depthkit.tv/docs/exporting).
 
-## Next Steps
+## Next Step:
 - [Unity Guide](unity.md) 
