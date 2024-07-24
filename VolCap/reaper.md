@@ -55,5 +55,5 @@ This guide will help you set up and record high-quality audio using the Rode Wir
 
 ### Useful Links
 - [Reaper User Guide](https://www.reaper.fm/userguide.php)
-- [Rode Wireless GO II User Guide](https://rode.com/en/user-guides/wirelessgoii)
+- [Rode Wireless GO II User Guide](https://rode.com/en-us/user-guides/wireless-go-ii)
 
