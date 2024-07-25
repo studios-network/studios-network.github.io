@@ -24,9 +24,13 @@ via analog. (image)
    - The routing matrix shows where audio is being received and transmitted.  
    - Use “+” at intersections to see the routing connections (called “subscriptions”)..  
    - Confirm successful connections with green check marks. If the intersecting boxes are empty, click on them to
-make the connections as shown below.
+make the connections as shown below. (image)
 
 4. *More Information*  
    - For additional details, consult:  
      - [Dante Virtual Soundcard](https://dev.audinate.com/GA/dvs/userguide/webhelp/content/front_page.htm)  
      - [Dante Controller](https://dev.audinate.com/GA/dante-controller/userguide/webhelp/content/front_page.htm)
+
+
+## Next Step:
+   - [Computer Audio (Stereo) Guide](stereo.md)  
