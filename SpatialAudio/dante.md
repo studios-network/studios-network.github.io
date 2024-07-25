@@ -28,5 +28,5 @@ make the connections as shown below.
 
 4. *More Information*  
    - For additional details, consult:  
-     - [Dante Virtual Soundcard](#)  
-     - [Dante Controller](#)
+     - [Dante Virtual Soundcard](https://dev.audinate.com/GA/dvs/userguide/webhelp/content/front_page.htm)  
+     - [Dante Controller](https://dev.audinate.com/GA/dante-controller/userguide/webhelp/content/front_page.htm)
