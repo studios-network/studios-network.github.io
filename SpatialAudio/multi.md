@@ -25,22 +25,16 @@ To create spatial audio experiences, specific software must be utilized that all
    - Access the "Routing Matrix" tab. (image) 
    -  Use the routing matrix to direct where audio from specific tracks are output. (image)
 
+( do not know what to do with this part)
 *MaxMSP*  
 1. *Launch MaxMSP*  
    - Open Dante Virtual Soundcard and set the audio interface to “ASIO”.  
    - Open the sample MaxMSP patch provided.
 
 2. *Configure Output Device*  
-   - Go to “Options” > “Audio Status”.  
-   - Select “ad_asio Dante Virtual Soundcard (x64)” as the driver.  
-   - Use “Open I/O Mapping” for routing configuration.
+   - Go to “Options” > “Audio Status”.  (image)
+   - Select "ad_asio Dante Virtual Soundcard (x64)" as the driver.  (image)
+   - Use “Open I/O Mapping” for routing configuration. (image)
+   - Close the Audio Status window and begin patching.
 
-3. *MaxMSP Tutorials*  
-   - Access online tutorials for further guidance.
-
-*MaxMSP as an External Audio Engine*  
-1. *Open Sound Control (OSC)*  
-   - Use OSC for communication with MaxMSP.  
-   - Hardcode the IP address for ARIES wifi.  
-
-*Important*: Ensure that MaxMSP is properly configured for communication.
+[Click here to learn more about MaxMSP](https://cycling74.com/tutorials?page=1)
