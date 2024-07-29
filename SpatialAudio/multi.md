@@ -64,7 +64,7 @@ To create spatial audio experiences, specific software must be utilized that all
    
    - Use “Open I/O Mapping” for routing configuration.
      <p align="center">
-     <img src="../images/sa/open.png" width="300" height="300" alt="Open Device">
+     <img src="../images/sa/open.png" width="363" height="521" alt="Open Device">
    </p>
    
    - Close the Audio Status window and begin patching.
