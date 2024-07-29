@@ -15,7 +15,7 @@ The Dante Protocol uses ethernet to communicate between audio devices on a share
      - Click on "Start" once everything is set.  
    - If properties are grayed out and there is a “stop” button, the Virtual Sound Card is active.
    <p align="center">
-     <img src="../images/sa/dvs.PNG" width="396" height="283" alt="Open Device">
+     <img src="../images/sa/dvs1.PNG" width="396" height="287" alt="Open Device">
    </p>
 
 ## Step 2: Dante Controller: 
