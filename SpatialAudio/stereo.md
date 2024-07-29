@@ -42,7 +42,7 @@ It may be desired to output audio from the computer as a typical stereo format. 
    </p>
      - Select "Additional device properties".
    <p align="center">
-     <img src="../images/sa/prp.png" width="396" height="92" alt="Open Device">
+     <img src="../images/sa/prop.png" width="396" height="92" alt="Open Device">
    </p>
      - Choose the "Advanced" tab.
      - Use the drop-down menu to select "2-channel, 24 bit, 48000 Hz".
