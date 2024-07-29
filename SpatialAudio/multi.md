@@ -21,8 +21,7 @@ To create spatial audio experiences, specific software must be utilized that all
 
 2. *Configure Output Device*  
    - Go to Options > Preferences.
-   <p align="center">[Uploading 4030 Audio System 2.pdf…]()
-
+   <p align="center">
      <img src="../images/sa/reaper.png" width="396" height="430" alt="Open Device">
    </p>
    
@@ -55,7 +54,7 @@ To create spatial audio experiences, specific software must be utilized that all
 2. *Configure Output Device*  
    - Go to “Options” > “Audio Status”.
      <p align="center">
-     <img src="../images/sa/audio.png" width="100" height="100" alt="Open Device">
+     <img src="../images/sa/audio.png" width="300" height="300" alt="Open Device">
    </p>
    
    - Select "ad_asio Dante Virtual Soundcard (x64)" as the driver.
@@ -65,7 +64,7 @@ To create spatial audio experiences, specific software must be utilized that all
    
    - Use “Open I/O Mapping” for routing configuration.
      <p align="center">
-     <img src="../images/sa/open.png" width="100" height="100" alt="Open Device">
+     <img src="../images/sa/open.png" width="300" height="300" alt="Open Device">
    </p>
    
    - Close the Audio Status window and begin patching.
