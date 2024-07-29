@@ -21,7 +21,7 @@ It may be desired to output audio from the computer as a typical stereo format. 
    <p align="center">
      <img src="../images/sa/3-4.png" width="396" height="320" alt="Open Device"></p>
    
-   - If audio playback is not occuring, check sample rate settings across all devices:
+### Note: If audio playback is not occuring, check sample rate settings across all devices:
    - Open Dante Controller, select Devices -> Device View.
 
    <p align="center">
