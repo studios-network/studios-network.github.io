@@ -26,7 +26,8 @@ It may be desired to output audio from the computer as a typical stereo format. 
    <p align="center">
      <img src="../images/sa/device.png" width="396" height="182" alt="Open Device">
    </p>
-   
+
+     - Open Dante Controller, select Devices -> Device View.
      - Use the drop down menu to select the different devices.
    <p align="center">
      <img src="../images/sa/menu.png" width="396" height="88" alt="Open Device">
