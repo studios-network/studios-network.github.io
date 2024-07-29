@@ -19,31 +19,36 @@ It may be desired to output audio from the computer as a typical stereo format. 
      <img src="../images/sa/1-2.png" width="396" height="325" alt="Open Device">
    </p>
    <p align="center">
-     <img src="../images/sa/3-4.png" width="396" height="320" alt="Open Device">
-   </p>
+     <img src="../images/sa/3-4.png" width="396" height="320" alt="Open Device"></p>
+   
    - If audio playback is not occuring, check sample rate settings across all devices:  
      - Open Dante Controller, select Devices -> Device View.
    <p align="center">
      <img src="../images/sa/device.png" width="396" height="182" alt="Open Device">
    </p>
+   
      - Use the drop down menu to select the different devices.
    <p align="center">
      <img src="../images/sa/menu.png" width="396" height="88" alt="Open Device">
    </p>
+   
      - Select the "Device Config" Tab
      - Ensure that the sample rate is 48 kHz for both the und32-10cd8a and the aries400733 devices.
    <p align="center">
      <img src="../images/sa/48.png" width="396" height="232" alt="Open Device">
    </p>
+
      - Open up the sound settings via the Windows search bar.
      - Select "Device Properties".
    <p align="center">
      <img src="../images/sa/setting.png" width="396" height="151" alt="Open Device">
    </p>
+   
      - Select "Additional device properties".
    <p align="center">
      <img src="../images/sa/prop.png" width="396" height="92" alt="Open Device">
    </p>
+   
      - Choose the "Advanced" tab.
      - Use the drop-down menu to select "2-channel, 24 bit, 48000 Hz".
      - Hit "Apply" and then "OK".
