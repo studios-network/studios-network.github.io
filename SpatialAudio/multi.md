@@ -7,7 +7,11 @@ To create spatial audio experiences, specific software must be utilized that all
 
 ## Step 1: Setup Dante Virtual Soundcard:  
 1. Open Dante Virtual Soundcard and switch to "ASIO" interface.
-   - If "WDM" is selected, press "Stop" at the bottom right of the window and change the interface to "ASIO" as shown here and press "Start". (image)
+   - If "WDM" is selected, press "Stop" at the bottom right of the window and change the interface to "ASIO" as shown here and press "Start".
+   <p align="center">
+     <img src="../images/sa/asio.PNG" width="396" height="287" alt="Open Device">
+   </p>
+   
    -  ASIO is used in pro-audio software, and will allow for multichannel routing.
  
   
@@ -16,14 +20,31 @@ To create spatial audio experiences, specific software must be utilized that all
    - Import the sample Reaper template provided.  (where)
 
 2. *Configure Output Device*  
-   - Go to Options > Preferences. (image)  
+   - Go to Options > Preferences.
+   <p align="center">[Uploading 4030 Audio System 2.pdf…]()
+
+     <img src="../images/sa/reaper.png" width="396" height="430" alt="Open Device">
+   </p>
+   
    - Set output range to Dante tx 1 to Dante tx 5 and sample rate to 48000 Hz.
-   - Ensure that the settings match the ones shown in the picture below. (image)
-   - Click "Apply" and "OK".  
+   - Ensure that the settings match the ones shown in the picture below. 
+   - Click "Apply" and "OK".
+   <p align="center">
+     <img src="../images/sa/set.PNG" width="396" height="285" alt="Open Device">
+   </p>
+   
 
 3. *Routing Matrix*  
-   - Access the "Routing Matrix" tab. (image) 
-   -  Use the routing matrix to direct where audio from specific tracks are output. (image)
+   - Go to View > Routing Matrix to access the "Routing Matrix" tab .
+   <p align="center">
+     <img src="../images/sa/matrix.png" width="396" height="182" alt="Open Device">
+   </p>
+   
+   -  Use the routing matrix to direct where audio from specific tracks are output.
+     <p align="center">
+     <img src="../images/sa/tab.png" width="396" height="469" alt="Open Device">
+   </p>
+   
 
 ( do not know what to do with this part)
 *MaxMSP*  
@@ -32,9 +53,21 @@ To create spatial audio experiences, specific software must be utilized that all
    - Open the sample MaxMSP patch provided.
 
 2. *Configure Output Device*  
-   - Go to “Options” > “Audio Status”.  (image)
-   - Select "ad_asio Dante Virtual Soundcard (x64)" as the driver.  (image)
-   - Use “Open I/O Mapping” for routing configuration. (image)
+   - Go to “Options” > “Audio Status”.
+     <p align="center">
+     <img src="../images/sa/audio.png" width="100" height="100" alt="Open Device">
+   </p>
+   
+   - Select "ad_asio Dante Virtual Soundcard (x64)" as the driver.
+     <p align="center">
+     <img src="../images/sa/name.png" width="396" height="212" alt="Open Device">
+   </p>
+   
+   - Use “Open I/O Mapping” for routing configuration.
+     <p align="center">
+     <img src="../images/sa/open.png" width="100" height="100" alt="Open Device">
+   </p>
+   
    - Close the Audio Status window and begin patching.
 
 [Click here to learn more about MaxMSP](https://cycling74.com/tutorials?page=1)
