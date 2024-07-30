@@ -8,7 +8,7 @@
 - *Dante Virtual Soundcard*:  The Dante Virtual Soundcard allows for multiple channels of audio to be sent from applications on the computer to the loudspeakers.
 - *Dante Controller*: Dante Controller is the primary interface for all Dante-enabled devices on a network and visualizes the signal flow in the routing matrix
 - *Reaper*: Reaper is used for multichannel audio routing, mixing, and basic audio effects.
-- *MaxMSP*: MaxMSP is used for custom audio processing, interactive sound installations, and advanced audio effects not easily achieved in a DAW.
+- *MaxMSP*: MaxMSP is digital signal processing software that utilizes a front-end visual scripting language to route audio and video signals.
 - You can choose to work with either: 
 1. *Computer Audio (Stereo):* This standard setup uses two channels for simple playback, suitable for basic audio needs.
 2. *Spatial Audio (Multichannel):* This advanced setup involves multiple channels for a surround sound experience, ideal for immersive and interactive projects.
