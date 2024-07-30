@@ -1,7 +1,7 @@
 # Dante Guide
 
 ## *Introduction*  
-The Dante Protocol uses ethernet to communicate between audio devices on a shared network. 
+The Dante Protocol uses ethernet to communicate between audio devices on a shared network. Dante relies on two applications to enable effective routing across devices: Dante Virtual Soundcard and Dante Controller.
 
 ## Step 1: Dante Virtual Soundcard: 
 1. *Launch Dante Virtual Soundcard*
