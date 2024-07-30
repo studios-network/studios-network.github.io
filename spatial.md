@@ -10,8 +10,8 @@
 - *Reaper*: Reaper is used for multichannel audio routing, mixing, and basic audio effects.
 - *MaxMSP*: MaxMSP is used for custom audio processing, interactive sound installations, and advanced audio effects not easily achieved in a DAW.
 - You can choose to work with either: 
--    *Computer Audio (Stereo):* This standard setup uses two channels for simple playback, suitable for basic audio needs.
--    *Spatial Audio (Multichannel):* This advanced setup involves multiple channels for a surround sound experience, ideal for immersive and interactive projects.
+1. *Computer Audio (Stereo):* This standard setup uses two channels for simple playback, suitable for basic audio needs.
+2. *Spatial Audio (Multichannel):* This advanced setup involves multiple channels for a surround sound experience, ideal for immersive and interactive projects.
 
 For detailed instructions, refer to the individual guides:
 
