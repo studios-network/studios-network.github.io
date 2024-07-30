@@ -18,10 +18,10 @@ To create spatial audio experiences, specific software must be utilized that all
 ## Step 2: Choose the Software:
 ### 1. Reaper: is for multichannel audio routing, mixing, and basic audio effects.
 
-1. *Launch Reaper*  
+1.1. *Launch Reaper*  
    - Import the sample Reaper template provided.  (where)
 
-2. *Configure Output Device*  
+2.1. *Configure Output Device*  
    - Go to Options > Preferences.
    <p align="center">
      <img src="../images/sa/reaper.png" width="396" height="430" alt="Open Device">
@@ -35,7 +35,7 @@ To create spatial audio experiences, specific software must be utilized that all
    </p>
    
 
-3. *Routing Matrix*  
+3.1. *Routing Matrix*  
    - Go to View > Routing Matrix to access the "Routing Matrix" tab .
    <p align="center">
      <img src="../images/sa/matrix.png" width="396" height="182" alt="Open Device">
@@ -48,11 +48,11 @@ To create spatial audio experiences, specific software must be utilized that all
    
 
 ### 2. MaxMSP: is for custom audio processing, interactive sound installations, and advanced audio effects not easily achieved in a DAW.
-1. *Launch MaxMSP*  
+1.2. *Launch MaxMSP*  
    - Open Dante Virtual Soundcard and set the audio interface to “ASIO”.  
    - Open the sample MaxMSP patch provided.
 
-2. *Configure Output Device*  
+2.2. *Configure Output Device*  
    - Go to “Options” > “Audio Status”.
      <p align="center">
      <img src="../images/sa/audio.png" width="300" height="300" alt="Open Device">
