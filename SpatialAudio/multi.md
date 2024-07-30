@@ -15,7 +15,9 @@ To create spatial audio experiences, specific software must be utilized that all
    -  ASIO is used in pro-audio software, and will allow for multichannel routing.
  
   
-## Step 2: Reaper setup  
+## Step 2: Choose the Software:
+### 1. Reaper: is for multichannel audio routing, mixing, and basic audio effects.
+
 1. *Launch Reaper*  
    - Import the sample Reaper template provided.  (where)
 
@@ -45,8 +47,7 @@ To create spatial audio experiences, specific software must be utilized that all
    </p>
    
 
-( do not know what to do with this part)
-*MaxMSP*  
+### 2. MaxMSP: is for custom audio processing, interactive sound installations, and advanced audio effects not easily achieved in a DAW.
 1. *Launch MaxMSP*  
    - Open Dante Virtual Soundcard and set the audio interface to “ASIO”.  
    - Open the sample MaxMSP patch provided.
