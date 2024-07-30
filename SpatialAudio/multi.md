@@ -49,8 +49,7 @@ To create spatial audio experiences, specific software must be utilized that all
 
 ### b. MaxMSP: is for custom audio processing, interactive sound installations, and advanced audio effects not easily achieved in a DAW.
 1. *Launch MaxMSP*  
-   - Open Dante Virtual Soundcard and set the audio interface to “ASIO”.  
-   - Open the sample MaxMSP patch provided.
+   - Open the sample MaxMSP patch provided. (where)
 
 2. *Configure Output Device*  
    - Go to “Options” > “Audio Status”.
