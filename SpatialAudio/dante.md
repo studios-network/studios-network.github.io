@@ -45,4 +45,6 @@ make the connections as shown below.
 
 
 ## Next Step:
-   - [Computer Audio (Stereo) Guide](stereo.md)  
+You can choose to work with either: 
+   - [Computer Audio (Stereo) Guide](stereo.md)
+   - [Spatial Audio (Multichannel) Guide](multi.md)
