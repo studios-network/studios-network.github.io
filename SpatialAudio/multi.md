@@ -69,4 +69,9 @@ To create spatial audio experiences, specific software must be utilized that all
    
    - Close the Audio Status window and begin patching.
 
-[Click here to learn more about MaxMSP](https://cycling74.com/tutorials?page=1)
+
+### Useful links:  
+
+   - [MaxMSP](https://cycling74.com/tutorials?page=1)
+
+
