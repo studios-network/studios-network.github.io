@@ -39,8 +39,9 @@ make the connections as shown below.
    </p>
 
 ### Useful links:  
-     - [Dante Virtual Soundcard](https://dev.audinate.com/GA/dvs/userguide/webhelp/content/front_page.htm)  
-     - [Dante Controller](https://dev.audinate.com/GA/dante-controller/userguide/webhelp/content/front_page.htm)
+
+   - [Dante Virtual Soundcard](https://dev.audinate.com/GA/dvs/userguide/webhelp/content/front_page.htm)  
+   - [Dante Controller](https://dev.audinate.com/GA/dante-controller/userguide/webhelp/content/front_page.htm)
 
 
 ## Next Step:
