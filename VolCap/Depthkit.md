@@ -4,8 +4,7 @@
 This guide will help you set up and record high-quality video using DepthKit.
 
 ## Step 1: Setup DepthKit
-1. Launch DepthKit:
-   - Launch DepthKit on the computer.
+1. Launch DepthKit.
 
 2. Open Existing Project:
    - To use the existing calibration, double-click on the project folder located at **D:\DepthKit\Volcap_4020**.
