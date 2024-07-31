@@ -49,6 +49,11 @@ After calibration, orient the cameras:
 
 
 ### Useful links:  
-Check out these videos for more information:
+Check out the links below for more information:
+  - [Motive Guide] (https://docs.optitrack.com/quick-start-guides/quick-start-guide-getting-started)
   - [Rigid Body Skeleton](https://drive.google.com/drive/folders/1o1ylpUgmxOkTpjF2N5syR45N1CYYgru5)
   - [Rigid Body](https://drive.google.com/drive/folders/1o1ylpUgmxOkTpjF2N5syR45N1CYYgru5)
+
+
+## Next Step:
+- [Unreal Guide](unreal.md)
