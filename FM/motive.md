@@ -14,6 +14,7 @@ Calibrate the cameras in the following situations:
    - When blue rings on the cameras turn off (indicating disconnection)
    - Following any modifications to the truss setup
    - If you sense irregularities in camera performance
+
 Here’s a visual of the post-calibrated cameras. (image)
 
 ## Step 3: Camera Orientation
