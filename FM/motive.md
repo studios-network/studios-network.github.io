@@ -41,11 +41,11 @@ After calibration, orient the cameras:
 
 ## Step 5: Recording and Exporting Data
 1. *Recording:* 
-  - Press the red record button or spacebar in Live mode to begin capturing data. It's advisable to start and end with a T-pose for easy post-processing. (image)
+     - Press the red record button or spacebar in Live mode to begin capturing data. It's advisable to start and end with a T-pose for easy post-processing. (image)
 
 2. *Post-Capture:*
-  - Review the capture, edit marker data as necessary using the Edit Tools pane, and ensure markers are properly labeled.
-  - Export the data in various formats such as FBX, BVH, or CSV through *File > Export Tracking Data*. (image)
+     - Review the capture, edit marker data as necessary using the Edit Tools pane, and ensure markers are properly labeled.
+     - Export the data in various formats such as FBX, BVH, or CSV through *File > Export Tracking Data*. (image)
 
 
 ### Useful links:  
