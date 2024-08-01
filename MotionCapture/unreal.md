@@ -66,6 +66,9 @@ This guide provides a step-by-step process to integrate the data with Unreal Eng
  <p align="center">
      <img src="../images/MC/pose.png" width="396" height="225" alt="Open Device"></p>
 
+ <p align="center">
+     <img src="../images/MC/connect.png" width="396" height="160" alt="Open Device"></p>
+
    - Select the LiveLinkPose node and change the retarget asset to OptiTrackLiveLinkRetarget.
  <p align="center">
      <img src="../images/MC/target.png" width="396" height="55" alt="Open Device"></p>
