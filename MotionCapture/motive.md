@@ -42,7 +42,7 @@ After calibration, orient the cameras:
 1. *Prepare the Actor:*
    - Attach markers at appropriate anatomical points on the actor. Have the actor stand in the volume in a T-pose.
    <p align="center">
-     <img src="../images/MC/library.PNG" width="396" height="108" alt="Open Device"></p>
+     <img src="../images/MC/skeleton.png" width="300" height="283" alt="Open Device"></p>
      
    - In Motive, go to *Layout > Create* and select Skeleton from the Builder pane.
    <p align="center">
