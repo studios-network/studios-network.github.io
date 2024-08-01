@@ -94,7 +94,10 @@ This guide provides a step-by-step process to integrate the data with Unreal Eng
  <p align="center">
      <img src="../images/MC/set.png" width="396" height="550" alt="Open Device"></p>
 
-   - Set the Post Processing Anim Blueprint to the ABP_(name) created earlier.
+   - Drag and drop the main MetaHuman BP_(name) asset into your level and.
+   - To test if it worked is if the MetaHuman stands in the Motive default T-Pose instead of the MetaHuman default A-Pose.
+ <p align="center">
+     <img src="../images/MC/final1.png" width="396" height="215" alt="Open Device"></p>
 
   
 ### Useful links:  
