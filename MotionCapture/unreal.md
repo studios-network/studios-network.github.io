@@ -18,31 +18,28 @@ This guide provides a step-by-step process to integrate the data with Unreal Eng
 ## Step 2: Integrating with Unreal Engine
 
 2. *Open Unreal Engine:*
-   - Start Unreal Engine and open a new Project.
+   - Start Unreal Engine and open a new MetaHuman Project.
 
 3. *Enable Plugins:*
    - Go to Edit > Plugins.
    <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
+     <img src="../images/MC/edit.png" width="391" height="347" alt="Open Device"></p>
      
-   - Ensure that both “OptiTrack - Live Link” and “OptiTrack - Streaming Client” plugins are enabled. (check two or three plugins)
+   - Ensure that both “OptiTrack - Live Link” and “OptiTrack - Streaming Client” plugins are enabled.
    <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
+     <img src="../images/MC/plugin.png" width="396" height="132" alt="Open Device"></p>
      
    - Restart Unreal Engine if prompted.
 
 4. *Setup LiveLink Source:*
-   - Go to Window > Live Link to open the Live Link window.
+   - Go to Window > Virtual Production > Live Link to open the Live Link window.
    <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
+     <img src="../images/MC/link.png" width="396" height="149" alt="Open Device"></p>
      
    - Click the + Source button and select OptiTrack Source.
-   <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
-     
    - Click Create.
    <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
+     <img src="../images/MC/source.png" width="396" height="212" alt="Open Device"></p>
      
 
 6. *Verify Connection:*
@@ -52,37 +49,30 @@ This guide provides a step-by-step process to integrate the data with Unreal Eng
 
 ## Step 3: Setting Up MetaHumans
 
-1. *Download MetaHumans:*
-   - In Unreal Engine, go to the Window tab and open Quixel Bridge.
-   - Sign in and navigate to the MetaHumans tab.
-   - Select and download the desired MetaHuman character, adding it to your project.
-   <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
-     
-
-2. *Enable Missing Plugins:*
-   - If prompted with pop-ups about missing plugins, enable all recommended plugins.
-   <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
-     
-   - Restart Unreal Engine after enabling these plugins.
-
-3. *Create Animation Blueprint:*
+1. *Create Animation Blueprint:*
    - Create an Animation Blueprint named ABP_(name of MetaHuman).
+ <p align="center">
+     <img src="../images/MC/anim.png" width="396" height="425" alt="Open Device"></p>
+     
    - Set the skeleton to metahuman_base_skel and the parent class to OptiTrackAnimInstance.
    - Click Create.
  <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
+     <img src="../images/MC/base.png" width="396" height="633" alt="Open Device"></p>
 
-4. *Configure Animation Blueprint:*
+2. *Configure Animation Blueprint:*
    - Open ABP_(name). If the AnimGraph isn’t visible, open it.
    - Add a LiveLinkPose node and connect it to the output pose node.
-   - Select the LiveLinkPose node and change the retarget asset to OptiTrackLiveLinkRetarget.
-   - Compile and save the Blueprint.
  <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
+     <img src="../images/MC/pose.png" width="396" height="225" alt="Open Device"></p>
 
-5. *Adjust MetaHuman Settings:*
+   - Select the LiveLinkPose node and change the retarget asset to OptiTrackLiveLinkRetarget.
+ <p align="center">
+     <img src="../images/MC/target.png" width="396" height="55" alt="Open Device"></p>
+     
+   - Compile and save the Blueprint.
+
+
+3. *Adjust MetaHuman Settings:*
    - In the Content Browser, locate the MetaHumans folder and find your MetaHuman.
    - Open the BP_(name) file.
    - Click on LODSync in the components window and set Forced LOD to 0.
