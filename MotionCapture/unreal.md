@@ -17,10 +17,10 @@ This guide provides a step-by-step process to integrate the data with Unreal Eng
 
 ## Step 2: Integrating with Unreal Engine
 
-2. *Open Unreal Engine:*
+1. *Open Unreal Engine:*
    - Start Unreal Engine and open a new MetaHuman Project.
 
-3. *Enable Plugins:*
+2. *Enable Plugins:*
    - Go to Edit > Plugins.
    <p align="center">
      <img src="../images/MC/edit.png" width="391" height="347" alt="Open Device"></p>
@@ -31,18 +31,18 @@ This guide provides a step-by-step process to integrate the data with Unreal Eng
      
    - Restart Unreal Engine if prompted.
 
-4. *Setup LiveLink Source:*
+3. *Setup LiveLink Source:*
    - Go to Window > Virtual Production > Live Link to open the Live Link window.
    <p align="center">
      <img src="../images/MC/link.png" width="396" height="149" alt="Open Device"></p>
      
    - Click the + Source button and select OptiTrack Source.
-   - Click Create.
+   - Click on Create.
    <p align="center">
      <img src="../images/MC/source.png" width="396" height="212" alt="Open Device"></p>
      
 
-6. *Verify Connection:*
+4. *Verify Connection:*
    - Once connected, you should see assets from Motive appearing in Unreal Engine’s Live Link view, indicated by green circles.
    <p align="center">
      <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
@@ -53,9 +53,10 @@ This guide provides a step-by-step process to integrate the data with Unreal Eng
    - Create an Animation Blueprint named ABP_(name of MetaHuman).
  <p align="center">
      <img src="../images/MC/anim.png" width="396" height="425" alt="Open Device"></p>
+
      
    - Set the skeleton to metahuman_base_skel and the parent class to OptiTrackAnimInstance.
-   - Click Create.
+   - Click on Create.
  <p align="center">
      <img src="../images/MC/base.png" width="396" height="633" alt="Open Device"></p>
 
