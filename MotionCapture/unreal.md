@@ -82,14 +82,19 @@ This guide provides a step-by-step process to integrate the data with Unreal Eng
    - Click on LODSync in the components window and set Forced LOD to 0.
  <p align="center">
      <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
+
+ <p align="center">
+     <img src="../images/MC/zero.png" width="396" height="554" alt="Open Device"></p>
      
    - Select the body component and under the details panel, navigate to mesh/skeletal mesh asset.
  <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
+     <img src="../images/MC/mesh.png" width="396" height="269" alt="Open Device"></p>
      
    - Set the Post Processing Anim Blueprint to the ABP_(name) created earlier.
  <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
+     <img src="../images/MC/set.png" width="396" height="550" alt="Open Device"></p>
+
+   - Set the Post Processing Anim Blueprint to the ABP_(name) created earlier.
 
   
 ### Useful links:  
