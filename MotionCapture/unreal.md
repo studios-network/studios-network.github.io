@@ -61,7 +61,7 @@ This guide provides a step-by-step process to integrate the data with Unreal Eng
      <img src="../images/MC/base.png" width="396" height="633" alt="Open Device"></p>
 
 2. *Configure Animation Blueprint:*
-   - Open ABP_(name). If the AnimGraph isn’t visible, open it.
+   - Double click on ABP_(name). If the AnimGraph isn’t visible, open it.
    - Add a LiveLinkPose node and connect it to the output pose node.
  <p align="center">
      <img src="../images/MC/pose.png" width="396" height="225" alt="Open Device"></p>
