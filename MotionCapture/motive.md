@@ -53,22 +53,25 @@ After calibration, orient the cameras:
    - Ensure markers are placed correctly by verifying the model in the Builder pane against the actor's markers.
    - Verify that 57 markers have been detected; 57 markers are required.
    <p align="center">
-     <img src="../images/MC/library.PNG" width="396" height="108" alt="Open Device"></p>
+     <img src="../images/MC/57.png" width="335" height="290" alt="Open Device"></p>
      
 
 3. *Create Skeleton:*
    - With the actor in T-pose, select all 57 markers in the Perspective view.
    <p align="center">
-     <img src="../images/MC/library.PNG" width="396" height="108" alt="Open Device"></p>
+     <img src="../images/MC/all.png" width="396" height="280" alt="Open Device"></p>
      
    - Click the Create button in the Builder pane.
    <p align="center">
-     <img src="../images/MC/library.PNG" width="396" height="108" alt="Open Device"></p>
+     <img src="../images/MC/create.png" width="342" height="844" alt="Open Device"></p>
      
    - Rename the rigid body for easy identification.
+      <p align="center">
+     <img src="../images/MC/name.png" width="205" height="270" alt="Open Device"></p>
+     
    - The properties panel will display information such as the rigid body's center of rotation and orientation axes.
    <p align="center">
-     <img src="../images/MC/library.PNG" width="396" height="108" alt="Open Device"></p>
+     <img src="../images/MC/prop.png" width="207" height="492" alt="Open Device"></p>
      
 
 ## Step 5: Recording and Exporting Data
