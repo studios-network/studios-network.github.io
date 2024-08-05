@@ -1,6 +1,6 @@
 # Virtual Environment Studio Documentation
 
-## Volumetric Capture 4020
+## 1. Volumetric Capture 4020
 
 ### Introduction
 
@@ -9,7 +9,7 @@ Volumetric capture records 3D spaces and objects, creating immersive, interactiv
 For detailed instructions, visit the [Volumetric Capture Page](VolCap.md).
 
 
-## Motion Capture 4030
+## 2. Motion Capture 4030
 
 ### Introduction
 
@@ -18,7 +18,7 @@ Motion capture records the movements of real-world objects or people and transla
 For detailed instructions, visit the [Motion Capture Page](MotionCapture.md).
 
 
-## Facial Motion Capture 4030
+## 3. Facial Motion Capture 4030
 
 ### Introduction
 
@@ -27,7 +27,7 @@ Facial motion capture records and translates facial movements into digital data,
 For detailed instructions, visit the [Facial Motion Capture Page](FacialMotion.md).
 
 
-## Spatial Audio 4030
+## 4. Spatial Audio 4030
 
 ### Introduction
 
