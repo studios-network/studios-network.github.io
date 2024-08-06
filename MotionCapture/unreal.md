@@ -9,10 +9,12 @@ This guide provides a step-by-step process to integrate the data with Unreal Eng
 2. *Configure Streaming Settings:*
    - Navigate to Edit > Settings > Streaming.
    <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
+     <img src="../images/MC/edit.png" width="199" height="179" alt="Open Device"></p>
      
-   - Or Layout > Streaming.
-   - Change the “Local Interface” setting to the IP address beginning with “198.82.19”. (change?)
+
+   - Change the “Local Interface” setting to the IP address beginning with “198.82.19”.
+   <p align="center">
+     <img src="../images/MC/ip.png" width="396" height="418" alt="Open Device"></p>
 
 
 ## Step 2: Integrating with Unreal Engine
@@ -44,8 +46,7 @@ This guide provides a step-by-step process to integrate the data with Unreal Eng
 
 4. *Verify Connection:*
    - Once connected, you should see assets from Motive appearing in Unreal Engine’s Live Link view, indicated by green circles.
-   <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
+
 
 ## Step 3: Setting Up MetaHumans
 
@@ -80,8 +81,6 @@ This guide provides a step-by-step process to integrate the data with Unreal Eng
    - In the Content Browser, locate the MetaHumans folder and find your MetaHuman.
    - Open the BP_(name) file.
    - Click on LODSync in the components window and set Forced LOD to 0.
- <p align="center">
-     <img src="../images/MC/library.PNG" width="302" height="108" alt="Open Device"></p>
 
  <p align="center">
      <img src="../images/MC/zero.png" width="396" height="554" alt="Open Device"></p>
