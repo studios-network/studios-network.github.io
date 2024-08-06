@@ -46,7 +46,7 @@ After calibration, orient the cameras:
      
    - In Motive, go to *Layout > Create* and select Skeleton from the Builder pane.
    <p align="center">
-     <img src="../images/MC/library.PNG" width="396" height="108" alt="Open Device"></p>
+     <img src="../images/MC/create.png" width="290" height="233" alt="Open Device"></p>
      
 
 2. *Define Marker Set:*
@@ -78,14 +78,12 @@ After calibration, orient the cameras:
 1. *Recording:* 
      - Press the red record button or spacebar in Live mode to begin capturing data. It's advisable to start and end with a T-pose for easy post-processing.
    <p align="center">
-     <img src="../images/MC/library.PNG" width="396" height="108" alt="Open Device"></p>
+     <img src="../images/MC/record.png" width="396" height="54" alt="Open Device"></p>
      
 
 2. *Post-Capture:*
      - Review the capture, edit marker data as necessary using the Edit Tools pane, and ensure markers are properly labeled.
      - Export the data in various formats such as FBX, BVH, or CSV through *File > Export Tracking Data*.
-   <p align="center">
-     <img src="../images/MC/library.PNG" width="396" height="108" alt="Open Device"></p>
 
 
 ### Useful links:  
