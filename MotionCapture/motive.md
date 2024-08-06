@@ -51,7 +51,7 @@ After calibration, orient the cameras:
 
 2. *Define Marker Set:*
    - Ensure markers are placed correctly by verifying the model in the Builder pane against the actor's markers.
-   - Verify that 57 markers have been detected; 57 markers are required.
+   - Verify that 57 markers have been detected; 57 markers are required in this example.
    <p align="center">
      <img src="../images/MC/57.png" width="335" height="290" alt="Open Device"></p>
      
