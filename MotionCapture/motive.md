@@ -63,7 +63,7 @@ After calibration, orient the cameras:
      
    - Click the Create button in the Builder pane.
    <p align="center">
-     <img src="../images/MC/create.png" width="342" height="844" alt="Open Device"></p>
+     <img src="../images/MC/create.png" width="290" height="233" alt="Open Device"></p>
      
    - Rename the rigid body for easy identification.
       <p align="center">
