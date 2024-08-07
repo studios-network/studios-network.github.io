@@ -1,7 +1,7 @@
-# Motive and Unreal Setup Guide
+# Motive Setup Guide
 
 ## Introduction
-This guide will help you set up and integrate Motive and Unreal Engine for motion capture and animation projects.
+This guide will help you set up and integrate Motive for motion capture and animation projects.
 
 ## Step 1: Launch Motive.
    - Upon launch, you may notice all cameras in a straight line, indicating they are not calibrated.
