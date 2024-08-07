@@ -30,7 +30,7 @@ After calibration, orient the cameras:
    <p align="center">
      <img src="../images/MC/scale.png" width="396" height="297" alt="Open Device"></p>
 
-   - *Adjust Orientation:* Right-click again and select "Orientation" to adjust the camera angles, ideally in 90-degree increments. Note that Motive allows adjustments in 5-degree increments.
+   - *Adjust Orientation:* If the camera's orientation is not ideal, right-click again and select "Orientation" to adjust the camera angles, ideally in 90-degree increments. Note that Motive allows adjustments in 5-degree increments.
    <p align="center">
      <img src="../images/MC/degree.png" width="396" height="343" alt="Open Device"></p>
      
