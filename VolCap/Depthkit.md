@@ -9,6 +9,11 @@ This guide will help you set up and record high-quality video using DepthKit.
 2. Open Existing Project:
    - To use the existing calibration, double-click on the project folder located at **D:\DepthKit\Volcap_4020**.
    - If you encounter any issues with the camera calibration, please refer to the [Calibration documentation](https://docs.depthkit.tv/docs/calibration) on recalibrating the cameras. If necessary, please create a new project for this purpose.
+   - Make sure all the 10 cameras are connected. 
+   <p align="center">
+     <img src="../images/DK/10.png" width="297" height="608" alt="Open Device">
+   </p>
+
 
 3. Position the Subject:
    - Place your subject at the center marking of the room.
