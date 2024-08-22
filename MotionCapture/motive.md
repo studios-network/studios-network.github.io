@@ -87,7 +87,7 @@ After calibration, orient the cameras:
 Check out the links below for more information:
   - [Motive Guide](https://docs.optitrack.com/quick-start-guides/quick-start-guide-getting-started)
   - [Rigid Body Skeleton](https://drive.google.com/drive/folders/1o1ylpUgmxOkTpjF2N5syR45N1CYYgru5)
-  - [Rigid Body]([https://drive.google.com/drive/folders/1o1ylpUgmxOkTpjF2N5syR45N1CYYgru5](https://github.com/studios-network/studios-network.github.io/blob/main/MotionCapture/Copy%20of%202optitrack_rigidBody.mkv))
+  - [Rigid Body](https://github.com/studios-network/studios-network.github.io/blob/main/MotionCapture/Copy%20of%202optitrack_rigidBody.mkv)
 
 
 ## Next Step:
